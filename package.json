@@ -1,0 +1,22 @@
+{
+  "name": "gravity-tourism-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "db:setup": "node backend/init_db.js",
+    "test": "node test_gis.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "@turf/turf": "^7.3.5"
+  }
+}

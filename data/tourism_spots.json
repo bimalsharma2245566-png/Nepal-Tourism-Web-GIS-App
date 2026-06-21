@@ -1,0 +1,4898 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3073,
+          27.7042
+        ]
+      },
+      "properties": {
+        "id": "ktm-durbar-square",
+        "name": "Kathmandu Durbar Square",
+        "category": "Heritage",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "The historic plaza in front of the ancient royal palace of the former Kathmandu Kingdom. One of three UNESCO World Heritage Durbar Squares in the Kathmandu Valley.",
+        "facilities": [
+          "Visitor Center",
+          "Tour Guides",
+          "Public Restrooms",
+          "Cafes",
+          "Souvenir Shops"
+        ],
+        "photo": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3252,
+          27.6734
+        ]
+      },
+      "properties": {
+        "id": "patan-durbar-square",
+        "name": "Patan Durbar Square",
+        "category": "Heritage",
+        "district": "Lalitpur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "Situated in the center of Lalitpur city, this UNESCO Heritage Site displays the finest Newari architecture with the artistic Patan Museum.",
+        "facilities": [
+          "Museum",
+          "Restrooms",
+          "Local Cafes",
+          "Handicrafts Shops",
+          "Parking"
+        ],
+        "photo": "https://images.unsplash.com/photo-1505489435671-80a165c62686?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4281,
+          27.6721
+        ]
+      },
+      "properties": {
+        "id": "bhaktapur-durbar-square",
+        "name": "Bhaktapur Durbar Square",
+        "category": "Heritage",
+        "district": "Bhaktapur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "An ancient palace complex with four distinct squares. Famous for the 55-Window Palace, Nyatapola Temple, and exquisite pottery craftsmanship.",
+        "facilities": [
+          "Restrooms",
+          "Information Booth",
+          "Traditional Restaurants",
+          "Pottery Workshops"
+        ],
+        "photo": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2905,
+          27.715
+        ]
+      },
+      "properties": {
+        "id": "swayambhunath",
+        "name": "Swayambhunath Stupa (Monkey Temple)",
+        "category": "Religion",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "An ancient religious complex atop a hill in the Kathmandu Valley, sacred to both Buddhists and Hindus with panoramic views of the city.",
+        "facilities": [
+          "Souvenir Markets",
+          "Vegetarian Cafes",
+          "Restrooms",
+          "Viewing Deck"
+        ],
+        "photo": "https://images.unsplash.com/photo-1582650625119-3a31f8fa2699?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3486,
+          27.7104
+        ]
+      },
+      "properties": {
+        "id": "pashupatinath",
+        "name": "Pashupatinath Temple",
+        "category": "Religion",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "One of the most sacred Hindu temples of Lord Shiva, located on the banks of the holy Bagmati River with a vast complex of temples, ashrams, and inscriptions.",
+        "facilities": [
+          "Information Office",
+          "Shoe Storage",
+          "Restrooms",
+          "Assisted Guides",
+          "First Aid"
+        ],
+        "photo": "https://images.unsplash.com/photo-1620802773485-78e718ccbe4e?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3618,
+          27.7212
+        ]
+      },
+      "properties": {
+        "id": "boudhanath",
+        "name": "Boudhanath Stupa",
+        "category": "Religion",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "One of the largest spherical stupas in Nepal and the holiest Tibetan Buddhist temple outside Tibet. A center of Tibetan culture in Kathmandu.",
+        "facilities": [
+          "Monasteries",
+          "Prayer Wheel Walk",
+          "Cafes",
+          "Souvenir Shops",
+          "Restrooms"
+        ],
+        "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3206,
+          27.6927
+        ]
+      },
+      "properties": {
+        "id": "patan-museum",
+        "name": "Patan Museum",
+        "category": "Heritage",
+        "district": "Lalitpur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "Nepal's finest museum, situated within the Royal Palace of Patan Durbar Square. Houses an exceptional collection of religious and historical artifacts.",
+        "facilities": [
+          "Guided Tours",
+          "Audio Guide",
+          "Gift Shop",
+          "Cafe",
+          "Restrooms"
+        ],
+        "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2836,
+          27.7032
+        ]
+      },
+      "properties": {
+        "id": "chandragiri-hills",
+        "name": "Chandragiri Hills",
+        "category": "Nature",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A scenic hill southwest of Kathmandu at 2551m altitude with a cable car, offering stunning views of the Himalayan range from Dhaulagiri to Everest.",
+        "facilities": [
+          "Cable Car",
+          "Temple",
+          "Restaurant",
+          "Viewing Deck",
+          "Parking"
+        ],
+        "photo": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3625,
+          27.6572
+        ]
+      },
+      "properties": {
+        "id": "godavari-botanical-garden",
+        "name": "Godavari Botanical Garden",
+        "category": "Nature",
+        "district": "Lalitpur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "National Botanical Garden of Nepal spanning 82 hectares at the foot of Phulchoki Hill, featuring diverse flora from tropical to alpine zones.",
+        "facilities": [
+          "Entry Ticket Office",
+          "Picnic Areas",
+          "Walking Trails",
+          "Restrooms",
+          "Parking"
+        ],
+        "photo": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4142,
+          27.6968
+        ]
+      },
+      "properties": {
+        "id": "nagarkot",
+        "name": "Nagarkot Viewpoint",
+        "category": "Nature",
+        "district": "Bhaktapur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A hill station east of Kathmandu famous for some of the finest Himalayan panoramic views, especially beautiful during sunrise and sunset.",
+        "facilities": [
+          "Resorts & Hotels",
+          "Trekking Trails",
+          "Sunrise Tower",
+          "Restaurants",
+          "Camping Spots"
+        ],
+        "photo": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1899,
+          27.7714
+        ]
+      },
+      "properties": {
+        "id": "kakani-viewpoint",
+        "name": "Kakani Viewpoint",
+        "category": "Nature",
+        "district": "Nuwakot",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A serene hill station north of Kathmandu at 2073m offering panoramic views of Ganesh Himal, Langtang, and other Himalayan peaks.",
+        "facilities": [
+          "Police Training Centre Museum",
+          "Picnic Areas",
+          "Hotels",
+          "Restaurants",
+          "Hiking Trails"
+        ],
+        "photo": "https://images.unsplash.com/photo-1560258018-c7db7645254e?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4631,
+          27.7458
+        ]
+      },
+      "properties": {
+        "id": "namo-buddha",
+        "name": "Namo Buddha Monastery",
+        "category": "Religion",
+        "district": "Kavrepalanchowk",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A sacred hilltop stupa and Tibetan Buddhist monastery east of Kathmandu. One of the most important pilgrimage sites in Nepal.",
+        "facilities": [
+          "Monastery",
+          "Guesthouse",
+          "Meditation Hall",
+          "Cafe",
+          "Trekking Trails"
+        ],
+        "photo": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2056,
+          27.8042
+        ]
+      },
+      "properties": {
+        "id": "shivapuri-national-park",
+        "name": "Shivapuri Nagarjun National Park",
+        "category": "Nature",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A protected area covering 159 sq km on the northern rim of Kathmandu valley. Excellent birdwatching, hiking, and mountain biking destination.",
+        "facilities": [
+          "Entry Gate",
+          "Trekking Trails",
+          "Wildlife Watching",
+          "Camping Areas",
+          "Mountain Biking"
+        ],
+        "photo": "https://images.unsplash.com/photo-1548391350-968f58dedaed?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2973,
+          27.7282
+        ]
+      },
+      "properties": {
+        "id": "rani-pokhari",
+        "name": "Rani Pokhari (Queen's Pond)",
+        "category": "Heritage",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A historic artificial pond built in 1670 AD by King Pratap Malla in memory of his queen. Features a small Shiva temple on an island in the center.",
+        "facilities": [
+          "Temple Access",
+          "Photography Area",
+          "Surrounding Garden",
+          "Nearby Cafes"
+        ],
+        "photo": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2771,
+          27.4794
+        ]
+      },
+      "properties": {
+        "id": "lumbini",
+        "name": "Lumbini — Birthplace of Buddha",
+        "category": "Religion",
+        "district": "Rupandehi",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "UNESCO World Heritage Site — the birthplace of Siddhartha Gautama (Buddha) in 563 BC. Features the sacred Mayadevi Temple, Ashoka Pillar, and a sacred garden.",
+        "facilities": [
+          "Bicycle Rentals",
+          "Electric Shuttles",
+          "Museum",
+          "Monasteries",
+          "Restrooms",
+          "Hotels"
+        ],
+        "photo": "https://images.unsplash.com/photo-1549144511-f099e773c147?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2648,
+          27.4918
+        ]
+      },
+      "properties": {
+        "id": "mayadevi-temple",
+        "name": "Mayadevi Temple",
+        "category": "Religion",
+        "district": "Rupandehi",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "The central shrine in the sacred garden of Lumbini, built over the exact spot where Queen Mayadevi gave birth to Siddhartha Gautama.",
+        "facilities": [
+          "Archaeological Museum",
+          "Sacred Garden",
+          "Meditation Spots",
+          "Restrooms",
+          "Guided Tours"
+        ],
+        "photo": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4536,
+          27.6911
+        ]
+      },
+      "properties": {
+        "id": "tansen-palpa",
+        "name": "Tansen (Palpa) Historic Town",
+        "category": "Heritage",
+        "district": "Palpa",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "A charming hilltop town known for its Newari heritage, traditional dhaka fabric weaving, historic Tansen Durbar, and panoramic mountain views.",
+        "facilities": [
+          "Heritage Walk Routes",
+          "Local Crafts Shops",
+          "Guesthouses",
+          "Local Restaurants"
+        ],
+        "photo": "https://images.unsplash.com/photo-1594381898411-846e7d193883?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1461,
+          27.6839
+        ]
+      },
+      "properties": {
+        "id": "kapilvastu-museum",
+        "name": "Kapilvastu Museum",
+        "category": "Heritage",
+        "district": "Kapilvastu",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "Museum near the ancient Kapilvastu ruins, the kingdom where Prince Siddhartha grew up. Displays significant archaeological artifacts from excavations.",
+        "facilities": [
+          "Museum",
+          "Guided Tours",
+          "Restrooms",
+          "Parking",
+          "Library"
+        ],
+        "photo": "https://images.unsplash.com/photo-1599930113854-d6d7fd521f10?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9587,
+          27.7231
+        ]
+      },
+      "properties": {
+        "id": "bandevi-temple",
+        "name": "Bandevi Devi Temple & Forest",
+        "category": "Religion",
+        "district": "Arghakhanchi",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "A forested hilltop temple dedicated to Bandevi Devi, a local female deity. Surrounded by dense forest and frequented by pilgrims and nature lovers alike.",
+        "facilities": [
+          "Temple",
+          "Forest Walk Trails",
+          "Viewing Points",
+          "Seasonal Fairs"
+        ],
+        "photo": "https://images.unsplash.com/photo-1510820561879-8b64fdb6d43b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.6261,
+          28.0415
+        ]
+      },
+      "properties": {
+        "id": "pyuthan-siwalik",
+        "name": "Siwaliks Ridge Trail, Pyuthan",
+        "category": "Adventure",
+        "district": "Pyuthan",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "An underexplored trekking destination featuring sub-Himalayan Siwalik hills with dense forests, waterfalls, and excellent bird diversity.",
+        "facilities": [
+          "Trail Access",
+          "Local Homestays",
+          "Jungle Camping",
+          "Bird Watching Points"
+        ],
+        "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9585,
+          28.2116
+        ]
+      },
+      "properties": {
+        "id": "phewa-lake",
+        "name": "Phewa Lake",
+        "category": "Nature",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A beautiful freshwater lake in Pokhara, famous for the reflection of Mount Machhapuchhre and the Tal Barahi Temple situated on an island.",
+        "facilities": [
+          "Boat Rental",
+          "Lakeside Restaurants",
+          "Hotels",
+          "Walking Path",
+          "Parking"
+        ],
+        "photo": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9506,
+          28.2439
+        ]
+      },
+      "properties": {
+        "id": "sarangkot",
+        "name": "Sarangkot Viewpoint",
+        "category": "Nature",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A popular hilltop viewpoint at 1592m near Pokhara offering spectacular sunrise views of the Annapurna Range and Pokhara Valley.",
+        "facilities": [
+          "Sunrise Tours",
+          "Paragliding Launch Site",
+          "Restaurants",
+          "Guesthouses",
+          "Trekking Trails"
+        ],
+        "photo": "https://images.unsplash.com/photo-1519400197429-404ae147e7de?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1279,
+          28.5378
+        ]
+      },
+      "properties": {
+        "id": "annapurna-base-camp",
+        "name": "Annapurna Base Camp",
+        "category": "Adventure",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A premier trekking destination situated at 4130m surrounded by a 360° amphitheater of Himalayan peaks including Annapurna I (8091m).",
+        "facilities": [
+          "Mountain Lodges",
+          "Porter Services",
+          "Emergency Shelter",
+          "Basic Medical Aid",
+          "Trail Markers"
+        ],
+        "photo": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7678,
+          28.3987
+        ]
+      },
+      "properties": {
+        "id": "poon-hill",
+        "name": "Poon Hill",
+        "category": "Adventure",
+        "district": "Myagdi",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A celebrated viewpoint at 3210m on the Ghorepani-Poon Hill Circuit, offering one of the most accessible and spectacular sunrise panoramas of the Annapurna and Dhaulagiri ranges.",
+        "facilities": [
+          "Tea Houses",
+          "Lodge Accommodation",
+          "Guided Treks",
+          "Viewing Tower",
+          "Emergency Shelter"
+        ],
+        "photo": "https://images.unsplash.com/photo-1531804226768-9c29e261a9f9?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9685,
+          28.2649
+        ]
+      },
+      "properties": {
+        "id": "world-peace-pagoda-pokhara",
+        "name": "World Peace Pagoda, Pokhara",
+        "category": "Religion",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A gleaming white Buddhist Shanti Stupa (Peace Pagoda) atop a hill south of Phewa Lake, offering panoramic views of Pokhara, the lake, and Himalayan peaks.",
+        "facilities": [
+          "Hiking Trail",
+          "Boating Access",
+          "Viewing Deck",
+          "Meditation Areas",
+          "Surrounding Forest"
+        ],
+        "photo": "https://images.unsplash.com/photo-1525016600710-fac4059a0f8c?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9755,
+          28.2283
+        ]
+      },
+      "properties": {
+        "id": "devi-falls",
+        "name": "Devi's Falls (Patale Chhango)",
+        "category": "Nature",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A unique waterfall in Pokhara where the Phusre Khola stream disappears underground into a deep gorge. Particularly spectacular during the monsoon season.",
+        "facilities": [
+          "Entry Point",
+          "Viewing Platforms",
+          "Museum",
+          "Souvenir Shops",
+          "Restrooms"
+        ],
+        "photo": "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8124,
+          28.4985
+        ]
+      },
+      "properties": {
+        "id": "ghorepani",
+        "name": "Ghorepani Village",
+        "category": "Adventure",
+        "district": "Myagdi",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A classic trekking waypoint on the Annapurna Circuit at 2874m, a hub for the Poon Hill trek, surrounded by rhododendron forests blooming brilliantly in spring.",
+        "facilities": [
+          "Tea Houses",
+          "Lodge Accommodation",
+          "Porter Hire",
+          "Medical Post",
+          "Information Board"
+        ],
+        "photo": "https://images.unsplash.com/photo-1585410875669-5a3a4ce1e6fa?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1279,
+          28.5378
+        ]
+      },
+      "properties": {
+        "id": "mustang-lo-manthang",
+        "name": "Lo Manthang, Upper Mustang",
+        "category": "Heritage",
+        "district": "Mustang",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "The walled medieval city that served as the capital of the ancient Kingdom of Lo (Mustang). A restricted trekking area preserving unique Tibetan-influenced culture and cave monasteries.",
+        "facilities": [
+          "Restricted Area Permit Required",
+          "Guesthouses",
+          "Local Monasteries",
+          "Cave Temples"
+        ],
+        "photo": "https://images.unsplash.com/photo-1572025442646-866d16c84a54?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5861,
+          28.7117
+        ]
+      },
+      "properties": {
+        "id": "muktinath-temple",
+        "name": "Muktinath Temple",
+        "category": "Religion",
+        "district": "Mustang",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A sacred pilgrimage site at 3710m considered holy by both Hindus and Buddhists. Famous for the 108 bull-headed spouts and natural flames amid water.",
+        "facilities": [
+          "Temple Complex",
+          "Monastery",
+          "Guesthouses",
+          "Sacred Spouts",
+          "Trekking Routes"
+        ],
+        "photo": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3333,
+          28.5667
+        ]
+      },
+      "properties": {
+        "id": "manang-village",
+        "name": "Manang Village",
+        "category": "Adventure",
+        "district": "Manang",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A classic rest point on the Annapurna Circuit at 3519m. A traditional high-altitude Tibetan village with stunning views of Annapurna, Gangapurna, and Pisang Peak.",
+        "facilities": [
+          "Tea Houses",
+          "AMS Medical Post",
+          "Acclimatization Hikes",
+          "Village Monastery"
+        ],
+        "photo": "https://images.unsplash.com/photo-1561449688-5e01b46f6bba?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.6293,
+          27.8067
+        ]
+      },
+      "properties": {
+        "id": "gorkha-palace",
+        "name": "Gorkha Durbar Palace",
+        "category": "Heritage",
+        "district": "Gorkha",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "The ancestral home of the Shah dynasty and birthplace of King Prithvi Narayan Shah, the founder of the modern state of Nepal, sitting atop a steep hill.",
+        "facilities": [
+          "Museum",
+          "Viewing Deck",
+          "Stairway Path",
+          "Gorkha Bazar",
+          "Local Guides"
+        ],
+        "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7131,
+          27.9878
+        ]
+      },
+      "properties": {
+        "id": "everest-base-camp",
+        "name": "Mount Everest Base Camp",
+        "category": "Adventure",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "The world-famous trekking destination at 5364m, sitting at the foot of the world's tallest mountain (8848.86m). An iconic journey through Sherpa culture and high-altitude wilderness.",
+        "facilities": [
+          "Mountain Lodges",
+          "Teahouses",
+          "Emergency Helipad",
+          "Permit Checkpoint",
+          "Guides & Porters"
+        ],
+        "photo": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7631,
+          27.9362
+        ]
+      },
+      "properties": {
+        "id": "khumbu-icefall",
+        "name": "Khumbu Icefall",
+        "category": "Adventure",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A dramatic and dangerous glacier at the head of the Khumbu Valley on the route to Mount Everest. One of the world's most awe-inspiring ice formations.",
+        "facilities": [
+          "Guided Expeditions Only",
+          "Emergency Rescue Availability",
+          "Viewing from EBC"
+        ],
+        "photo": "https://images.unsplash.com/photo-1606117869293-d77ca43c0a3e?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7143,
+          27.8096
+        ]
+      },
+      "properties": {
+        "id": "namche-bazaar",
+        "name": "Namche Bazaar",
+        "category": "Heritage",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "The bustling gateway to the Khumbu region at 3440m — a vibrant market town and acclimatization stop for Everest trekkers with a fascinating Sherpa museum.",
+        "facilities": [
+          "Hotels & Lodges",
+          "Restaurants",
+          "ATM",
+          "Hospital",
+          "Sherpa Museum",
+          "Markets"
+        ],
+        "photo": "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7128,
+          27.8357
+        ]
+      },
+      "properties": {
+        "id": "tengboche-monastery",
+        "name": "Tengboche Monastery",
+        "category": "Religion",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "The most famous Buddhist monastery in the Khumbu region, perched at 3867m with breathtaking views of Ama Dablam and Everest. A spiritual landmark for Sherpa culture.",
+        "facilities": [
+          "Monastery",
+          "Prayer Hall",
+          "Guesthouses",
+          "Monk Interactions",
+          "Puja Ceremonies"
+        ],
+        "photo": "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0952,
+          27.0281
+        ]
+      },
+      "properties": {
+        "id": "kanchenjunga-base-camp",
+        "name": "Kanchenjunga Base Camp",
+        "category": "Adventure",
+        "district": "Taplejung",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "Base camp at the foot of the world's third highest mountain (8586m). A remote and pristine trek through rhododendron forests, glaciers, and diverse wildlife.",
+        "facilities": [
+          "Camping Only",
+          "Local Porter Guides",
+          "Remote Medical Aid",
+          "Conservation Area Entry"
+        ],
+        "photo": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2806,
+          26.7745
+        ]
+      },
+      "properties": {
+        "id": "ilam-tea-gardens",
+        "name": "Ilam Tea Gardens",
+        "category": "Nature",
+        "district": "Ilam",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "Picturesque rolling hills covered with lush green tea estates in eastern Nepal, producing some of the finest artisanal teas. A serene retreat with walking trails through the gardens.",
+        "facilities": [
+          "Tea Factory Tours",
+          "Tasting Sessions",
+          "Local Guesthouses",
+          "Walking Trails"
+        ],
+        "photo": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.7028,
+          26.8014
+        ]
+      },
+      "properties": {
+        "id": "mechi-river-corridor",
+        "name": "Mechi River Corridor",
+        "category": "Nature",
+        "district": "Jhapa",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "The Mechi River valley bordering India forming a lush corridor of biodiversity with forests, riverine habitats, and excellent birdwatching opportunities.",
+        "facilities": [
+          "River Access",
+          "Birdwatching Points",
+          "Local Boat Rides",
+          "Camping Sites"
+        ],
+        "photo": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6625,
+          26.6643
+        ]
+      },
+      "properties": {
+        "id": "koshi-tappu",
+        "name": "Koshi Tappu Wildlife Reserve",
+        "category": "Nature",
+        "district": "Saptari",
+        "province": 2,
+        "province_name": "Madhesh",
+        "description": "Nepal's smallest wildlife reserve, a Ramsar wetland site and critical habitat for migratory waterfowl, the last wild water buffalo in Nepal, and gharial crocodiles.",
+        "facilities": [
+          "Jeep Safaris",
+          "Boat Tours",
+          "Bird Watching Hides",
+          "Reserve Guesthouses"
+        ],
+        "photo": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4942,
+          27.2247
+        ]
+      },
+      "properties": {
+        "id": "halesi-mahadev",
+        "name": "Halesi Mahadev Cave Temple",
+        "category": "Religion",
+        "district": "Khotang",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A sacred cave temple complex considered one of the holiest Hindu pilgrimage sites in Nepal, believed to be where Lord Shiva once meditated.",
+        "facilities": [
+          "Cave Temple Access",
+          "Nearby Monastery",
+          "Pilgrim Guesthouses",
+          "Local Guides"
+        ],
+        "photo": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7167,
+          26.4667
+        ]
+      },
+      "properties": {
+        "id": "parsa-wildlife-reserve",
+        "name": "Parsa Wildlife Reserve",
+        "category": "Nature",
+        "district": "Parsa",
+        "province": 2,
+        "province_name": "Madhesh",
+        "description": "A wildlife reserve bordering Chitwan National Park, serving as a buffer zone protecting Bengal tigers, elephants, and diverse birdlife in the Terai ecosystem.",
+        "facilities": [
+          "Jungle Safari",
+          "Elephant Tours",
+          "Nature Trails",
+          "Research Center"
+        ],
+        "photo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5197,
+          27.5249
+        ]
+      },
+      "properties": {
+        "id": "manakamana-temple",
+        "name": "Manakamana Temple",
+        "category": "Religion",
+        "district": "Gorkha",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A Nepalese Hindu temple dedicated to the goddess Manakamana, perched atop a hill at 1302m. Accessed by one of Asia's highest cable car rides.",
+        "facilities": [
+          "Cable Car",
+          "Temple Complex",
+          "Restaurants",
+          "Souvenir Shops",
+          "Goat Sacrifice Area"
+        ],
+        "photo": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9826,
+          28.4028
+        ]
+      },
+      "properties": {
+        "id": "tsum-valley",
+        "name": "Tsum Valley",
+        "category": "Adventure",
+        "district": "Gorkha",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A deeply remote sacred Himalayan valley offering pristine Buddhist culture, ancient monasteries, and stunning mountain scenery. A hidden gem accessible only to trekkers.",
+        "facilities": [
+          "Restricted Area Permit",
+          "Local Homestays",
+          "Monastery Visits",
+          "Guided Treks"
+        ],
+        "photo": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1453,
+          29.3111
+        ]
+      },
+      "properties": {
+        "id": "rara-lake",
+        "name": "Rara Lake National Park",
+        "category": "Nature",
+        "district": "Mugu",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "Nepal's largest and most pristine lake at 2990m in remote Karnali province. Renowned for its crystal-clear azure waters, alpine meadows, and surrounding forest.",
+        "facilities": [
+          "National Park Entry",
+          "Camping Grounds",
+          "Boat Rides",
+          "Hiking Trails",
+          "Fishing Spots"
+        ],
+        "photo": "https://images.unsplash.com/photo-1503712871578-8e7b27a17b19?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2819,
+          28.5461
+        ]
+      },
+      "properties": {
+        "id": "shey-phoksundo",
+        "name": "Shey Phoksundo Lake",
+        "category": "Nature",
+        "district": "Dolpa",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "The deepest and most beautiful lake in Nepal at 3611m altitude, with hauntingly blue-green waters. Nepal's largest national park surrounds it with diverse wildlife.",
+        "facilities": [
+          "National Park Entry",
+          "Camping",
+          "Phoksundo Guesthouse",
+          "Helicopter Access Available"
+        ],
+        "photo": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6319,
+          29.0481
+        ]
+      },
+      "properties": {
+        "id": "mugu-rara-trail",
+        "name": "Rara Lake Trekking Trail",
+        "category": "Adventure",
+        "district": "Mugu",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "One of Nepal's most remote and rewarding trekking routes passing through diverse landscapes, traditional villages, and culminating at the stunning Rara Lake.",
+        "facilities": [
+          "Trail Access",
+          "Local Lodges",
+          "Porter Services",
+          "Flight Access from Nepalgunj"
+        ],
+        "photo": "https://images.unsplash.com/photo-1477322524744-0eece9e79640?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.5917,
+          28.9978
+        ]
+      },
+      "properties": {
+        "id": "karnali-river-rafting",
+        "name": "Karnali River Rafting",
+        "category": "Adventure",
+        "district": "Humla",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "One of the world's top whitewater rafting rivers, offering multi-day expedition through dramatic gorges, rapids, and some of the most pristine scenery in Nepal.",
+        "facilities": [
+          "Rafting Operators",
+          "Safety Equipment",
+          "Camping Along River",
+          "Guide Services"
+        ],
+        "photo": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2083,
+          29.5789
+        ]
+      },
+      "properties": {
+        "id": "simikot-humla",
+        "name": "Simikot, Humla District",
+        "category": "Adventure",
+        "district": "Humla",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "The remote headquarters of Humla district and gateway to Tibet's Mount Kailash. A hub for trekking and cultural exploration in Nepal's most isolated region.",
+        "facilities": [
+          "Airport",
+          "Basic Guesthouses",
+          "Trek Logistics Base",
+          "Permit Office"
+        ],
+        "photo": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1631,
+          29.3561
+        ]
+      },
+      "properties": {
+        "id": "api-base-camp",
+        "name": "Api Himal Base Camp",
+        "category": "Adventure",
+        "district": "Darchula",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "Base camp approach to Api Himal (7132m), the highest peak of the Mahabharat Range. An extremely remote and challenging trekking route for serious mountaineers.",
+        "facilities": [
+          "Camping Only",
+          "Local Porter Guides",
+          "Expedition Permits",
+          "Emergency Radio"
+        ],
+        "photo": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5747,
+          28.8408
+        ]
+      },
+      "properties": {
+        "id": "shuklaphanta-national-park",
+        "name": "Shuklaphanta National Park",
+        "category": "Nature",
+        "district": "Kanchanpur",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "A wildlife reserve in the Terai grasslands supporting Bengal tigers, swamp deer, and elephants. Home to the world's largest congregation of swamp deer.",
+        "facilities": [
+          "Jeep Safari",
+          "Watchtower",
+          "Elephant Rides",
+          "Nature Guides",
+          "Eco-Lodges"
+        ],
+        "photo": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6547,
+          29.2936
+        ]
+      },
+      "properties": {
+        "id": "mahakali-river",
+        "name": "Mahakali River Adventure Zone",
+        "category": "Adventure",
+        "district": "Darchula",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "The Mahakali River forms Nepal's western border with India, offering exciting rafting opportunities through scenic gorges in one of Nepal's remotest regions.",
+        "facilities": [
+          "Rafting Launch Points",
+          "Local Guides",
+          "Camping Sites",
+          "Border Crossing Proximity"
+        ],
+        "photo": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9797,
+          28.9847
+        ]
+      },
+      "properties": {
+        "id": "atariya-dhangadhi",
+        "name": "Dhangadhi Gateway & Terai Culture",
+        "category": "Heritage",
+        "district": "Kailali",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "The main city of far-western Nepal and gateway to Terai's cultural richness, Tharu community traditions, and access to Shuklaphanta reserve.",
+        "facilities": [
+          "Airport",
+          "Hotels & Restaurants",
+          "Tharu Cultural Museum",
+          "Bazaar Markets"
+        ],
+        "photo": "https://images.unsplash.com/photo-1594381898411-846e7d193883?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4167,
+          29.3167
+        ]
+      },
+      "properties": {
+        "id": "bedkot-lake",
+        "name": "Bedkot Lake",
+        "category": "Nature",
+        "district": "Kanchanpur",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "A tranquil natural lake with dense surrounding forests providing habitat to migratory birds and diverse wildlife in far-western Nepal.",
+        "facilities": [
+          "Bird Watching",
+          "Boating",
+          "Walking Trails",
+          "Local Fishing"
+        ],
+        "photo": "https://images.unsplash.com/photo-1567604494470-6e7dcd88edd5?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4436,
+          27.6797
+        ]
+      },
+      "properties": {
+        "id": "butwal-terai-gateway",
+        "name": "Butwal & Siddhartha Highway",
+        "category": "Heritage",
+        "district": "Rupandehi",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "The commercial gateway city along the Siddhartha Highway connecting the Terai with Pokhara. Known for its surrounding hills and its role as a crossroads of cultures.",
+        "facilities": [
+          "Hotels & Restaurants",
+          "Banks",
+          "Markets",
+          "Siddhartha Highway Access"
+        ],
+        "photo": "https://images.unsplash.com/photo-1529516548873-9ce57c8f155e?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1817,
+          28.0958
+        ]
+      },
+      "properties": {
+        "id": "bardia-national-park",
+        "name": "Bardia National Park",
+        "category": "Nature",
+        "district": "Bardiya",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "Nepal's largest national park in the Terai, known for exceptional chances of seeing wild Bengal tigers in natural behavior, along with elephants, rhinos, and dolphins.",
+        "facilities": [
+          "Jeep Safari",
+          "Elephant Rides",
+          "Canoe Tours",
+          "Jungle Walks",
+          "Eco Lodges"
+        ],
+        "photo": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6111,
+          28.4378
+        ]
+      },
+      "properties": {
+        "id": "surkhet-birendranagar",
+        "name": "Birendranagar & Bulbule Lake",
+        "category": "Nature",
+        "district": "Surkhet",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "The provincial capital of Karnali surrounded by hills, Bulbule Lake is a serene local attraction with boating and birdwatching opportunities.",
+        "facilities": [
+          "Boating",
+          "Picnic Areas",
+          "Hotels",
+          "Park Entrance",
+          "Local Cafes"
+        ],
+        "photo": "https://images.unsplash.com/photo-1458442310124-dde6edb43d10?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4631,
+          28.5437
+        ]
+      },
+      "properties": {
+        "id": "thorong-la-pass",
+        "name": "Thorong La Pass",
+        "category": "Adventure",
+        "district": "Manang",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "The highest point on the world-famous Annapurna Circuit at 5416m. A challenging high-altitude mountain pass with breathtaking views of the entire Annapurna Range.",
+        "facilities": [
+          "Tea House at Base",
+          "Emergency Shelter",
+          "Weather Check Points",
+          "Permit Stations"
+        ],
+        "photo": "https://images.unsplash.com/photo-1517659649778-bae24b8c2e0f?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6019,
+          28.6847
+        ]
+      },
+      "properties": {
+        "id": "kagbeni-village",
+        "name": "Kagbeni Medieval Village",
+        "category": "Heritage",
+        "district": "Mustang",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A medieval walled village at the confluence of the Kali Gandaki and Jhong rivers, marking the checkpoint for the restricted Upper Mustang region with ancient monasteries.",
+        "facilities": [
+          "Guesthouses",
+          "Monastery",
+          "Checkpoint Office",
+          "Local Cafes",
+          "Trekking Information"
+        ],
+        "photo": "https://images.unsplash.com/photo-1588392382834-a891154bca4d?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7122,
+          28.2678
+        ]
+      },
+      "properties": {
+        "id": "tansen-ridi-temple",
+        "name": "Ridi Temple & Gorge",
+        "category": "Religion",
+        "district": "Gulmi",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "A revered Hindu pilgrimage site at the confluence of Ridi Khola and Kali Gandaki River, featuring a historic Vishnu temple and a dramatic rocky gorge.",
+        "facilities": [
+          "Temple Complex",
+          "Pilgrimage Ghats",
+          "Local Guesthouses",
+          "Boat Rides"
+        ],
+        "photo": "https://images.unsplash.com/photo-1510820561879-8b64fdb6d43b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.1619,
+          27.3467
+        ]
+      },
+      "properties": {
+        "id": "makalu-base-camp",
+        "name": "Makalu Base Camp",
+        "category": "Adventure",
+        "district": "Sankhuwasabha",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "Base camp for the fifth highest mountain in the world (8485m). The Makalu-Barun National Park trail passes through some of Nepal's most diverse and remote wilderness.",
+        "facilities": [
+          "Camping Only",
+          "National Park Entry",
+          "Local Porter Services",
+          "Remote Medical Aid"
+        ],
+        "photo": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4167,
+          27.2333
+        ]
+      },
+      "properties": {
+        "id": "arun-valley",
+        "name": "Arun Valley Trekking",
+        "category": "Adventure",
+        "district": "Sankhuwasabha",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "The Arun River valley in eastern Nepal is one of the world's deepest valleys, offering stunning vertical landscapes from tropical jungle to high alpine zones.",
+        "facilities": [
+          "Local Tea Houses",
+          "Community Guesthouses",
+          "Guided Trekking",
+          "Birdwatching Guides"
+        ],
+        "photo": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6986,
+          27.9361
+        ]
+      },
+      "properties": {
+        "id": "khumbu-valley",
+        "name": "Khumbu Valley",
+        "category": "Nature",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "The famed Khumbu region in northeastern Nepal — the homeland of the Sherpa people, world's most extraordinary mountain scenery including four 8000m peaks.",
+        "facilities": [
+          "Teahouses",
+          "Porter Hire",
+          "Mountain Guides",
+          "Bakeries",
+          "Medical Posts"
+        ],
+        "photo": "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2681,
+          28.3647
+        ]
+      },
+      "properties": {
+        "id": "upper-mustang-yartung",
+        "name": "Yartung Festival, Lo Manthang",
+        "category": "Heritage",
+        "district": "Mustang",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "The annual Yartung festival in Upper Mustang is one of Nepal's most spectacular cultural events, featuring horse racing, dances, and rituals unique to Tibetan Buddhism.",
+        "facilities": [
+          "Festival Access",
+          "Guesthouses",
+          "Cultural Performances",
+          "Traditional Market"
+        ],
+        "photo": "https://images.unsplash.com/photo-1583852151516-2f95f68d38a5?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6222,
+          28.2119
+        ]
+      },
+      "properties": {
+        "id": "gosaikunda-lake",
+        "name": "Gosainkunda Lake",
+        "category": "Religion",
+        "district": "Rasuwa",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A sacred alpine lake at 4380m in Langtang National Park, considered holy by both Hindus and Buddhists. Site of the famous Janai Purnima pilgrimage during August.",
+        "facilities": [
+          "Trekking Access",
+          "Basic Tea Houses",
+          "Camping",
+          "Pilgrimage Trail"
+        ],
+        "photo": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7119,
+          27.9672
+        ]
+      },
+      "properties": {
+        "id": "helambu-trekking",
+        "name": "Helambu Trekking Region",
+        "category": "Adventure",
+        "district": "Sindhupalchok",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A popular lower-altitude trekking area north of Kathmandu offering panoramic mountain views, traditional Hyolmo and Sherpa villages, and Buddhist monasteries.",
+        "facilities": [
+          "Local Lodges",
+          "Guided Treks",
+          "Village Homestays",
+          "Cultural Tours"
+        ],
+        "photo": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5131,
+          27.5249
+        ]
+      },
+      "properties": {
+        "id": "tharu-cultural-museum",
+        "name": "Tharu Cultural Museum & Resort",
+        "category": "Heritage",
+        "district": "Chitwan",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A fascinating museum celebrating the unique Tharu indigenous culture of the Terai lowlands — their crafts, traditional housing, fishing traditions, and celebrations.",
+        "facilities": [
+          "Museum",
+          "Cultural Performances",
+          "Traditional Tharu Village Walk",
+          "Canoe Rides",
+          "Restaurants"
+        ],
+        "photo": "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3817,
+          27.6897
+        ]
+      },
+      "properties": {
+        "id": "sauraha-elephant-village",
+        "name": "Sauraha Elephant Breeding Center",
+        "category": "Nature",
+        "district": "Chitwan",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A government elephant breeding and training center in Sauraha near Chitwan, where visitors can observe these magnificent animals, their calves, and their daily care routines.",
+        "facilities": [
+          "Observation Decks",
+          "Guided Tour",
+          "Photo Opportunities",
+          "Conservation Education"
+        ],
+        "photo": "https://images.unsplash.com/photo-1566438480900-0609be27a4be?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9739,
+          28.1883
+        ]
+      },
+      "properties": {
+        "id": "gupteshwar-cave",
+        "name": "Gupteshwar Mahadev Cave",
+        "category": "Religion",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A sacred Hindu cave temple near Pokhara dedicated to Lord Shiva. The cave contains a natural stalagmite worshipped as Shivalinga and connects to a lower gorge area.",
+        "facilities": [
+          "Cave Entry",
+          "Temple Complex",
+          "Souvenir Stalls",
+          "Nearby Devi Falls"
+        ],
+        "photo": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9869,
+          28.2289
+        ]
+      },
+      "properties": {
+        "id": "international-mountain-museum",
+        "name": "International Mountain Museum, Pokhara",
+        "category": "Heritage",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "One of the finest mountain museums in the world, housing exhibits on the geology, ecology, culture, and history of the Himalayas and the heroic stories of mountaineers.",
+        "facilities": [
+          "Museum",
+          "IMAX Theater",
+          "Cafe",
+          "Gift Shop",
+          "Children's Activities"
+        ],
+        "photo": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9728,
+          28.2114
+        ]
+      },
+      "properties": {
+        "id": "bindhyabasini-temple",
+        "name": "Bindhyabasini Temple, Pokhara",
+        "category": "Religion",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "One of the most important Hindu temples in Pokhara, dedicated to Goddess Bhagwati. Situated on a hilltop with commanding views of the Annapurna range and the city.",
+        "facilities": [
+          "Temple Complex",
+          "Viewpoint",
+          "Local Market",
+          "Prayer Facilities"
+        ],
+        "photo": "https://images.unsplash.com/photo-1583292650898-7d22cd27ca6f?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9583,
+          28.2972
+        ]
+      },
+      "properties": {
+        "id": "anadu-river-beach",
+        "name": "Begnas Lake",
+        "category": "Nature",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "The second-largest lake in the Pokhara Valley and a much quieter alternative to Phewa Lake. Excellent for boating, fishing, and enjoying the surrounding green hills.",
+        "facilities": [
+          "Boating",
+          "Fishing",
+          "Lakeside Restaurants",
+          "Cycling Trails",
+          "Bird Watching"
+        ],
+        "photo": "https://images.unsplash.com/photo-1492648272180-61e45a8d6df3?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0128,
+          28.0897
+        ]
+      },
+      "properties": {
+        "id": "ramdi-bridge",
+        "name": "Ramdi River Canyon",
+        "category": "Adventure",
+        "district": "Syangja",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A dramatic river canyon popular for bungee jumping and extreme activities. The Kali Gandaki river creates stunning geological formations in this accessible canyon.",
+        "facilities": [
+          "Bungee Jump Operations",
+          "Canyon Walking",
+          "Swimming Areas",
+          "Local Cafes"
+        ],
+        "photo": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0681,
+          27.3378
+        ]
+      },
+      "properties": {
+        "id": "phulchoki-hill",
+        "name": "Phulchoki Hill",
+        "category": "Nature",
+        "district": "Lalitpur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "The highest point surrounding the Kathmandu Valley at 2782m, covered in dense temperate forests excellent for birdwatching, and offering outstanding Himalayan views.",
+        "facilities": [
+          "Hiking Trails",
+          "Birdwatching",
+          "Mountain Viewpoint",
+          "Forest Picnic Areas"
+        ],
+        "photo": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2939,
+          27.7914
+        ]
+      },
+      "properties": {
+        "id": "dakshinkali-temple",
+        "name": "Dakshinkali Temple",
+        "category": "Religion",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A major Hindu temple dedicated to Goddess Kali, located in a forested gorge at the southwestern end of Kathmandu Valley. Famous for animal sacrifices during festivals.",
+        "facilities": [
+          "Temple Complex",
+          "Pilgrimage Facilities",
+          "Surrounding Forest Walk",
+          "Market Stalls"
+        ],
+        "photo": "https://images.unsplash.com/photo-1608501323767-4e038a04e4d8?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4722,
+          27.5997
+        ]
+      },
+      "properties": {
+        "id": "namobuddha-forest",
+        "name": "Balthali Eco Village",
+        "category": "Nature",
+        "district": "Kavrepalanchowk",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A peaceful rural retreat in the hills east of Kathmandu with community-based eco-tourism offering organic farming, mountain views, hiking trails, and authentic village life.",
+        "facilities": [
+          "Eco Lodges",
+          "Organic Farming Tours",
+          "Hiking",
+          "Village Walks",
+          "Mountain Views"
+        ],
+        "photo": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0278,
+          27.4564
+        ]
+      },
+      "properties": {
+        "id": "tribhuvan-museum",
+        "name": "Tribhuvan Museum",
+        "category": "Heritage",
+        "district": "Makwanpur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "Dedicated to King Tribhuvan who overthrew the Rana oligarchy and restored democracy to Nepal in 1951. The museum houses royal artifacts and significant historical exhibits.",
+        "facilities": [
+          "Museum Galleries",
+          "Heritage Grounds",
+          "Gift Shop",
+          "Library"
+        ],
+        "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.5306,
+          27.9678
+        ]
+      },
+      "properties": {
+        "id": "gokyo-lakes",
+        "name": "Gokyo Lakes",
+        "category": "Nature",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A chain of six high-altitude freshwater lakes in the Khumbu region at 4700-5000m. The Gokyo Ri viewpoint above offers one of the finest Himalayan panoramas.",
+        "facilities": [
+          "Tea Houses",
+          "Gokyo Ri Hiking",
+          "Lake Access",
+          "Mountain Views"
+        ],
+        "photo": "https://images.unsplash.com/photo-1503712871578-8e7b27a17b19?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.3311,
+          27.8172
+        ]
+      },
+      "properties": {
+        "id": "solu-khumbu-phaplu",
+        "name": "Phaplu & Solu Valley",
+        "category": "Heritage",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A beautiful Sherpa valley south of Everest region with the historic Chiwong Monastery and Treksure Gompa. Lower altitude alternative to the main Khumbu treks.",
+        "facilities": [
+          "Airport",
+          "Monastery Visits",
+          "Local Guesthouses",
+          "Cultural Tours"
+        ],
+        "photo": "https://images.unsplash.com/photo-1533107767122-d80e8ab7f581?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9917,
+          27.4111
+        ]
+      },
+      "properties": {
+        "id": "hetauda-industrial",
+        "name": "Hetauda Industrial Heritage",
+        "category": "Heritage",
+        "district": "Makwanpur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "Nepal's first industrial city in the Terai foothills. Known for its ropeway system (the world's second longest when built) and growing industrial heritage.",
+        "facilities": [
+          "Ropeway Viewpoint",
+          "Industrial Museum",
+          "Hotels",
+          "Local Restaurants"
+        ],
+        "photo": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.7111,
+          26.6736
+        ]
+      },
+      "properties": {
+        "id": "bhadrapur-charali",
+        "name": "Mai Pokhari Lake",
+        "category": "Nature",
+        "district": "Ilam",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A sacred high-altitude lake on the ridge bordering India in eastern Nepal, known for its scenic beauty, surrounding forest, and religious significance.",
+        "facilities": [
+          "Trekking Access",
+          "Sacred Rituals Area",
+          "Guesthouses",
+          "Forest Walking"
+        ],
+        "photo": "https://images.unsplash.com/photo-1446934808921-bcee6ca5f2e6?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3167,
+          26.9167
+        ]
+      },
+      "properties": {
+        "id": "sangrila-dharan",
+        "name": "Budhabare & Eastern Terai Wetlands",
+        "category": "Nature",
+        "district": "Jhapa",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "Rich lowland wetlands and forests of the eastern Terai region important for migratory bird conservation and providing habitat to numerous endangered species.",
+        "facilities": [
+          "Birdwatching Points",
+          "Nature Trails",
+          "Community Forest Access",
+          "Photography"
+        ],
+        "photo": "https://images.unsplash.com/photo-1444464666168-49d633b86797?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0283,
+          27.5597
+        ]
+      },
+      "properties": {
+        "id": "pokhara-paragliding",
+        "name": "Pokhara Paragliding Zone",
+        "category": "Adventure",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "Pokhara is Asia's premier paragliding destination. Tandem flights from Sarangkot launch site soar over Phewa Lake and across to the stunning Annapurna panorama.",
+        "facilities": [
+          "Tandem Flights",
+          "Solo Pilot Courses",
+          "Photo & Video Services",
+          "Equipment Rental"
+        ],
+        "photo": "https://images.unsplash.com/photo-1502780402662-acc01917949e?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3589,
+          27.8167
+        ]
+      },
+      "properties": {
+        "id": "kopan-monastery",
+        "name": "Kopan Monastery",
+        "category": "Religion",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A Tibetan Buddhist monastery on a hilltop north of Kathmandu offering meditation courses, retreats, and teachings in Tibetan Buddhism. Known worldwide for its month-long courses.",
+        "facilities": [
+          "Meditation Hall",
+          "Library",
+          "Guesthouse",
+          "Tibetan Art",
+          "Vegetarian Meals"
+        ],
+        "photo": "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3819,
+          27.7097
+        ]
+      },
+      "properties": {
+        "id": "budhanilkantha",
+        "name": "Budhanilkantha Temple",
+        "category": "Religion",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "Features a remarkable 5-meter stone statue of Vishnu reclining on the Shesha Naag (thousand-headed serpent) in the middle of a sacred pond. A major Hindu site.",
+        "facilities": [
+          "Temple Complex",
+          "Sacred Pond",
+          "Pilgrimage Facilities",
+          "Guided Visits"
+        ],
+        "photo": "https://images.unsplash.com/photo-1543158181-e6f9f6712055?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9917,
+          27.9814
+        ]
+      },
+      "properties": {
+        "id": "lumle-agriculture-center",
+        "name": "Lumle Agricultural Research Center",
+        "category": "Heritage",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A hill agricultural research station set in beautiful terraced landscape with one of Nepal's highest annual rainfalls, featuring demonstration gardens and mountain views.",
+        "facilities": [
+          "Research Visits",
+          "Garden Walk",
+          "Mountain Viewpoints",
+          "Trekking Route Access"
+        ],
+        "photo": "https://images.unsplash.com/photo-1530512073724-32b61e31f6f7?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9772,
+          28.0811
+        ]
+      },
+      "properties": {
+        "id": "machhapuchhre-base-camp",
+        "name": "Machhapuchhre Base Camp",
+        "category": "Adventure",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "Base camp at 3700m for the revered 'Fishtail' peak (6993m), considered sacred and never permitted to be climbed. A stunning viewpoint on the Annapurna Sanctuary trek.",
+        "facilities": [
+          "Mountain Lodges",
+          "Teahouse Meals",
+          "Stunning Views",
+          "Trail Markers"
+        ],
+        "photo": "https://images.unsplash.com/photo-1584507513498-bb9d64bd4e97?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.7356,
+          28.4783
+        ]
+      },
+      "properties": {
+        "id": "dolpa-juphal",
+        "name": "Juphal Airport & Dolpo Gateway",
+        "category": "Adventure",
+        "district": "Dolpa",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "Juphal serves as the main entry point to Dolpo — one of the most remote and culturally preserved regions of Nepal, featuring ancient Bon culture and dramatic landscapes.",
+        "facilities": [
+          "Airport",
+          "Guesthouses",
+          "Trek Permits",
+          "Helicopter Services",
+          "Local Guides"
+        ],
+        "photo": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9508,
+          28.8019
+        ]
+      },
+      "properties": {
+        "id": "nepalgunj-bazaar",
+        "name": "Nepalgunj Cultural Bazaar",
+        "category": "Heritage",
+        "district": "Banke",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "A vibrant trading city on the Terai with a unique blend of Nepali, Muslim, and Indian cultures. A major hub for flights to remote western Nepal destinations.",
+        "facilities": [
+          "Airport",
+          "Hotels",
+          "Cultural Bazaar",
+          "Mosques & Temples",
+          "Markets"
+        ],
+        "photo": "https://images.unsplash.com/photo-1520962880247-cfaf541d8354?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3947,
+          28.3961
+        ]
+      },
+      "properties": {
+        "id": "dang-valley",
+        "name": "Dang Valley Cultural Area",
+        "category": "Heritage",
+        "district": "Dang",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "Nepal's largest inner Terai valley surrounded by forested hills, home to the Tharu and Dangaura communities with rich folklore, traditional dances, and cultural practices.",
+        "facilities": [
+          "Cultural Village Visits",
+          "Local Festivals",
+          "Forest Areas",
+          "Agricultural Landscapes"
+        ],
+        "photo": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3919,
+          28.5128
+        ]
+      },
+      "properties": {
+        "id": "marsyangdi-river-rafting",
+        "name": "Marsyangdi River Rafting",
+        "category": "Adventure",
+        "district": "Lamjung",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "One of Nepal's best whitewater rafting rivers with exciting Grade IV rapids flowing through the dramatic Annapurna foothills gorge. Multi-day runs available.",
+        "facilities": [
+          "Rafting Operators",
+          "Safety Equipment",
+          "Riverside Camping",
+          "Guide Services"
+        ],
+        "photo": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9339,
+          28.0219
+        ]
+      },
+      "properties": {
+        "id": "palungtar-gorkha-viewpoint",
+        "name": "Gorkha Panoramic Viewpoint",
+        "category": "Nature",
+        "district": "Gorkha",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "An elevated viewpoint in the Gorkha district offering stunning panoramic views of Manaslu, Ganesh Himal, Sringi Himal, and the foothills of mid-western Nepal.",
+        "facilities": [
+          "Viewpoint Platform",
+          "Trekking Trails",
+          "Local Teahouses",
+          "Photography Spots"
+        ],
+        "photo": "https://images.unsplash.com/photo-1571401835393-8c98277d5b63?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2719,
+          26.7889
+        ]
+      },
+      "properties": {
+        "id": "mai-valley-trekking",
+        "name": "Mai Valley Trekking",
+        "category": "Adventure",
+        "district": "Ilam",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A scenic trekking route through the lush hills and valleys of Ilam district, passing through tea gardens, rhododendron forests, and traditional farming villages.",
+        "facilities": [
+          "Local Guesthouses",
+          "Tea Garden Access",
+          "Village Trails",
+          "River Access"
+        ],
+        "photo": "https://images.unsplash.com/photo-1535581652167-3a26c90dbb8e?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0861,
+          27.2133
+        ]
+      },
+      "properties": {
+        "id": "solukhumbu-junbesi",
+        "name": "Thubten Choling Monastery, Junbesi",
+        "category": "Religion",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A large and active Nyingma Tibetan Buddhist monastery in the Solu region, housing hundreds of monks and nuns, a popular pilgrimage and cultural tourism stop.",
+        "facilities": [
+          "Monastery Complex",
+          "Prayer Ceremonies",
+          "Guesthouses Nearby",
+          "Guided Tours"
+        ],
+        "photo": "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4394,
+          28.0322
+        ]
+      },
+      "properties": {
+        "id": "pokhara-bat-cave",
+        "name": "Mahendra Cave & Bat Cave",
+        "category": "Nature",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "An intriguing natural limestone cave system near Pokhara featuring stalactites and stalagmites and a colony of thousands of bats that emerge dramatically at dusk.",
+        "facilities": [
+          "Cave Entry",
+          "Guide Service",
+          "Torches Provided",
+          "Nearby Restaurants"
+        ],
+        "photo": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5069,
+          27.8472
+        ]
+      },
+      "properties": {
+        "id": "panchkhal-valley",
+        "name": "Panchkhal Valley",
+        "category": "Nature",
+        "district": "Kavrepalanchowk",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A fertile river valley east of Kathmandu with a warm microclimate supporting diverse agriculture, orange orchards, and serving as a gateway to eastern trekking regions.",
+        "facilities": [
+          "Local Farms",
+          "Fruit Orchards",
+          "Village Guesthouses",
+          "River Access"
+        ],
+        "photo": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9764,
+          28.6181
+        ]
+      },
+      "properties": {
+        "id": "surkhet-kakrebihar",
+        "name": "Kakrebihar Archaeological Site",
+        "category": "Heritage",
+        "district": "Surkhet",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "An important archaeological site featuring ancient Buddhist and Hindu temple ruins from the Licchavi period. One of mid-western Nepal's most significant heritage sites.",
+        "facilities": [
+          "Archaeological Site Access",
+          "Museum",
+          "Guided Tours",
+          "Historical Information Boards"
+        ],
+        "photo": "https://images.unsplash.com/photo-1575505586569-646b2ca898fc?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5464,
+          28.9708
+        ]
+      },
+      "properties": {
+        "id": "kanchanpur-gadha-border",
+        "name": "Bansbari Forest Reserve",
+        "category": "Nature",
+        "district": "Kanchanpur",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "A community forest reserve near the Indian border in far-western Nepal, providing habitat to tigers and diverse mammals in the last extension of the Terai arc landscape.",
+        "facilities": [
+          "Forest Walks",
+          "Birdwatching Points",
+          "Community Guides",
+          "Wildlife Photography"
+        ],
+        "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5569,
+          29.0236
+        ]
+      },
+      "properties": {
+        "id": "jagadishpur-reservoir",
+        "name": "Jagadishpur Reservoir",
+        "category": "Nature",
+        "district": "Kapilvastu",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "An important Ramsar wetland site near Lumbini that attracts huge flocks of migratory waterfowl including over 150 bird species and 20,000+ individual birds in winter.",
+        "facilities": [
+          "Birdwatching Hides",
+          "Boat Rental",
+          "Photography Points",
+          "Local Information Center"
+        ],
+        "photo": "https://images.unsplash.com/photo-1440342359743-84fcb8c21f21?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2681,
+          27.4917
+        ]
+      },
+      "properties": {
+        "id": "world-peace-pagoda-lumbini",
+        "name": "World Peace Pagoda (Shanti Stupa), Lumbini",
+        "category": "Religion",
+        "district": "Rupandehi",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "A gleaming Japanese-built Peace Pagoda in the sacred garden of Lumbini, dedicated to world peace through the teachings of the Buddha. A striking white landmark.",
+        "facilities": [
+          "Pagoda Grounds",
+          "Prayer Area",
+          "Surrounding Garden Walk",
+          "Photography Deck"
+        ],
+        "photo": "https://images.unsplash.com/photo-1525016600710-fac4059a0f8c?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8183,
+          28.0883
+        ]
+      },
+      "properties": {
+        "id": "walling-bazaar",
+        "name": "Syangja Walling Bazaar & Hills",
+        "category": "Nature",
+        "district": "Syangja",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A mid-hills district with scenic terraced hillsides, traditional Gurung villages, and beautiful viewpoints towards the Annapurna and Dhaulagiri ranges.",
+        "facilities": [
+          "Scenic Viewpoints",
+          "Cultural Villages",
+          "Local Guesthouses",
+          "Hiking Trails"
+        ],
+        "photo": "https://images.unsplash.com/photo-1484910292437-025e5d13ce87?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4306,
+          28.5583
+        ]
+      },
+      "properties": {
+        "id": "nar-phu-valley",
+        "name": "Nar Phu Valley (Restricted)",
+        "category": "Adventure",
+        "district": "Manang",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A restricted valley off the Annapurna Circuit with pristine Tibetan Buddhist culture and dramatic high-altitude landscapes. One of Nepal's most authentic trekking destinations.",
+        "facilities": [
+          "Special Area Permits Required",
+          "Local Guesthouses",
+          "Monastery Visits",
+          "High-Altitude Camping"
+        ],
+        "photo": "https://images.unsplash.com/photo-1549476464-37392f717541?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9792,
+          28.5542
+        ]
+      },
+      "properties": {
+        "id": "ganesh-himal-trek",
+        "name": "Ganesh Himal Base Camp Trek",
+        "category": "Adventure",
+        "district": "Gorkha",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A challenging and rewarding trek to the base camp of Ganesh Himal (7422m), one of Nepal's lesser-known mountain giants with stunning high-altitude wilderness.",
+        "facilities": [
+          "Camping Areas",
+          "Local Guides Required",
+          "Trekking Permits",
+          "Remote Medical Aid"
+        ],
+        "photo": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6028,
+          27.7286
+        ]
+      },
+      "properties": {
+        "id": "island-peak",
+        "name": "Island Peak (Imja Tse) Climbing",
+        "category": "Adventure",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A popular trekking peak in the Khumbu region at 6189m, often used as training for higher Himalayan climbs. Offers stunning close-up views of Lhotse and the Amphu Lapcha.",
+        "facilities": [
+          "Mountaineering Permits",
+          "Sherpa Guides",
+          "Equipment Rental",
+          "High-Camp Tents"
+        ],
+        "photo": "https://images.unsplash.com/photo-1574027542338-98e75acfd385?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.5836,
+          27.7744
+        ]
+      },
+      "properties": {
+        "id": "ama-dablam-base",
+        "name": "Ama Dablam Base Camp",
+        "category": "Adventure",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "Base camp for Ama Dablam (6812m), widely considered one of the world's most beautiful mountains with its distinctive twin 'arms'. A revered mountaineering objective.",
+        "facilities": [
+          "Base Camp Facilities",
+          "Sherpa Guides",
+          "Expedition Services",
+          "Spectacular Scenery"
+        ],
+        "photo": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8311,
+          27.7708
+        ]
+      },
+      "properties": {
+        "id": "jiri-gateway",
+        "name": "Jiri — Classic Everest Trek Start",
+        "category": "Adventure",
+        "district": "Dolakha",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "The original starting point for the classic Everest Base Camp trek, before the Lukla airport was built. Offers a challenging and authentic trekking experience through mid-hills villages.",
+        "facilities": [
+          "Trekking Start Point",
+          "Bazaar",
+          "Local Guesthouses",
+          "Medical Post"
+        ],
+        "photo": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.5611,
+          27.6881
+        ]
+      },
+      "properties": {
+        "id": "lukla-airport",
+        "name": "Tenzing-Hillary Airport (Lukla)",
+        "category": "Heritage",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "The world-famous gateway to the Everest region, often listed among the world's most dramatic airports. Landing here begins the iconic Everest Base Camp trek.",
+        "facilities": [
+          "Airport",
+          "Teahouses",
+          "Equipment Shops",
+          "Trekking Agency Offices",
+          "Bakeries"
+        ],
+        "photo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3119,
+          27.6483
+        ]
+      },
+      "properties": {
+        "id": "kirtipur",
+        "name": "Kirtipur Ancient City",
+        "category": "Heritage",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "One of the oldest settlements in the Kathmandu Valley, perched atop a hill with beautifully preserved Newari architecture, old courtyards, and a fascinating history of resistance.",
+        "facilities": [
+          "Heritage Walk",
+          "Local Cafes",
+          "Bagh Bhairab Temple",
+          "Chilancho Stupa"
+        ],
+        "photo": "https://images.unsplash.com/photo-1576800234028-7fe0c0b1e2cc?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3394,
+          27.7272
+        ]
+      },
+      "properties": {
+        "id": "garden-of-dreams",
+        "name": "Garden of Dreams (Kaiser Mahal)",
+        "category": "Heritage",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A neoclassical heritage garden in the heart of Kathmandu, restored to its original 1920s glory with pavilions, fountains, ponds, and lush landscapes — a serene urban oasis.",
+        "facilities": [
+          "Garden Entry",
+          "Cafe",
+          "Art Exhibitions",
+          "Photography Area",
+          "Event Venue"
+        ],
+        "photo": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1458,
+          27.8697
+        ]
+      },
+      "properties": {
+        "id": "annapurna-circuit-besisahar",
+        "name": "Besisahar — Annapurna Circuit Start",
+        "category": "Adventure",
+        "district": "Lamjung",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "The traditional starting point of the world-famous Annapurna Circuit trek, located at 760m in Lamjung district along the Marsyangdi River.",
+        "facilities": [
+          "Bus Station",
+          "Hotels",
+          "Permit Offices",
+          "Equipment Rental",
+          "Local Restaurants"
+        ],
+        "photo": "https://images.unsplash.com/photo-1519400197429-404ae147e7de?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9722,
+          28.2528
+        ]
+      },
+      "properties": {
+        "id": "seti-river-gorge",
+        "name": "Seti River Gorge, Pokhara",
+        "category": "Nature",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "An unusual and captivating gorge in the middle of Pokhara city where the milky Seti River runs invisibly underground through a dramatic narrow slot canyon.",
+        "facilities": [
+          "Bridge Viewpoints",
+          "Mahendra Pul Area",
+          "Riverside Walks",
+          "Photography Spots"
+        ],
+        "photo": "https://images.unsplash.com/photo-1511884642898-4c92249e20b6?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3364,
+          27.6717
+        ]
+      },
+      "properties": {
+        "id": "golden-temple-patan",
+        "name": "Hiranya Varna Mahavihar (Golden Temple)",
+        "category": "Religion",
+        "district": "Lalitpur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A magnificent Buddhist monastery in the heart of Patan dating back to the 12th century, famous for its spectacular golden facade and intricate metal and woodwork.",
+        "facilities": [
+          "Monastery",
+          "Sacred Courtyard",
+          "Guided Tours",
+          "Temple Donation Box"
+        ],
+        "photo": "https://images.unsplash.com/photo-1543158181-e6f9f6712055?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1131,
+          27.8508
+        ]
+      },
+      "properties": {
+        "id": "nagarjun-forest",
+        "name": "Nagarjun Forest Reserve",
+        "category": "Nature",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A lush forest reserve on the northwestern edge of Kathmandu Valley offering easy day hikes, mountain biking, wildlife spotting, and peaceful escape from the city.",
+        "facilities": [
+          "Hiking Trails",
+          "Mountain Biking Paths",
+          "Wildlife Spotting",
+          "Picnic Areas"
+        ],
+        "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7753,
+          27.6308
+        ]
+      },
+      "properties": {
+        "id": "sindhupalchok-larcha",
+        "name": "Larcha Valley, Sindhupalchok",
+        "category": "Adventure",
+        "district": "Sindhupalchok",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A pristine valley near the Tibet border accessed from Tatopani hot springs, featuring beautiful alpine landscapes, yak pastures, and connections to the historic Tibet trade routes.",
+        "facilities": [
+          "Hot Springs Access",
+          "Local Tea Houses",
+          "Border Area Permits",
+          "Camping"
+        ],
+        "photo": "https://images.unsplash.com/photo-1477322524744-0eece9e79640?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8411,
+          28.0428
+        ]
+      },
+      "properties": {
+        "id": "gaurishankar-conservation",
+        "name": "Gaurishankar Conservation Area",
+        "category": "Nature",
+        "district": "Dolakha",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A protected conservation area centered on the sacred mountain Gaurishankar (7134m) with diverse fauna including red pandas, snow leopards, and Himalayan black bears.",
+        "facilities": [
+          "Conservation Area Entry",
+          "Trekking Trails",
+          "Community Lodges",
+          "Wildlife Guides"
+        ],
+        "photo": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.4986,
+          28.2128
+        ]
+      },
+      "properties": {
+        "id": "music-of-west-jajarkot",
+        "name": "Jajarkot Fort & Hills",
+        "category": "Heritage",
+        "district": "Jajarkot",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "The headquarters of Jajarkot district features an ancient hilltop fort overlooking the Tila River valley with important historical connections to medieval Nepal.",
+        "facilities": [
+          "Fort Ruins Access",
+          "Historical Site",
+          "Local Guesthouses",
+          "Market Bazaar"
+        ],
+        "photo": "https://images.unsplash.com/photo-1575505586569-646b2ca898fc?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8533,
+          28.7478
+        ]
+      },
+      "properties": {
+        "id": "sinja-valley",
+        "name": "Sinja Valley Archaeological Site",
+        "category": "Heritage",
+        "district": "Jumla",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "The historic birthplace of the Nepali language, once the capital of the powerful medieval Khasa Kingdom. A UNESCO tentative list site with significant archaeological remains.",
+        "facilities": [
+          "Archaeological Site",
+          "Guided Tours",
+          "Local Guesthouses",
+          "Trekking to Rara Lake"
+        ],
+        "photo": "https://images.unsplash.com/photo-1599930113854-d6d7fd521f10?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1419,
+          29.2744
+        ]
+      },
+      "properties": {
+        "id": "chandannath-temple",
+        "name": "Chandannath Temple, Jumla",
+        "category": "Religion",
+        "district": "Jumla",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "A significant ancient Hindu temple dedicated to Chandannath, located in Jumla district with spectacular surrounding mountains and serving as an important pilgrimage destination.",
+        "facilities": [
+          "Temple Complex",
+          "Local Pilgrimage Facilities",
+          "Guesthouses",
+          "Apple Orchards Nearby"
+        ],
+        "photo": "https://images.unsplash.com/photo-1543158181-e6f9f6712055?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7261,
+          27.5494
+        ]
+      },
+      "properties": {
+        "id": "sun-koshi-rafting",
+        "name": "Sun Koshi River Rafting",
+        "category": "Adventure",
+        "district": "Kavrepalanchowk",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "One of the top 10 river journeys in the world, the 8-10 day Sun Koshi expedition traverses 270km through pristine gorges, remote villages, and exciting whitewater.",
+        "facilities": [
+          "Rafting Operators",
+          "Full Expedition Services",
+          "Riverside Camping",
+          "Safety Kayakers"
+        ],
+        "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6636,
+          26.8814
+        ]
+      },
+      "properties": {
+        "id": "suryodaya-himalayan-views",
+        "name": "Suryodaya Viewpoint",
+        "category": "Nature",
+        "district": "Ilam",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "An outstanding dawn viewpoint in the Ilam hills offering panoramic views of the entire eastern Himalayan range including Kanchenjunga (8586m) and surrounding peaks.",
+        "facilities": [
+          "Sunrise Viewing",
+          "Local Guesthouses",
+          "Tea Gardens Access",
+          "Photography Spots"
+        ],
+        "photo": "https://images.unsplash.com/photo-1519400197429-404ae147e7de?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9069,
+          27.8111
+        ]
+      },
+      "properties": {
+        "id": "tatopani-hot-springs",
+        "name": "Tatopani Hot Springs",
+        "category": "Nature",
+        "district": "Sindhupalchok",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "Natural thermal hot springs on the banks of the Bhote Koshi River, popular for trekkers returning from Tibet or the Langtang region, providing soothing relief for tired muscles.",
+        "facilities": [
+          "Hot Spring Pools",
+          "Guesthouses",
+          "Restaurants",
+          "Himalayan Views"
+        ],
+        "photo": "https://images.unsplash.com/photo-1492648272180-61e45a8d6df3?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7011,
+          28.4381
+        ]
+      },
+      "properties": {
+        "id": "tatopani-kali-gandaki",
+        "name": "Tatopani Hot Springs (Kali Gandaki)",
+        "category": "Nature",
+        "district": "Myagdi",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "Famous hot springs on the Annapurna Circuit route along the Kali Gandaki gorge where trekkers traditionally rest and bathe after the Thorong La pass crossing.",
+        "facilities": [
+          "Natural Hot Pools",
+          "Guesthouses",
+          "Restaurants",
+          "Market Stalls",
+          "Post Office"
+        ],
+        "photo": "https://images.unsplash.com/photo-1584507513498-bb9d64bd4e97?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1283,
+          27.8883
+        ]
+      },
+      "properties": {
+        "id": "besisahar-lamjung-heritage",
+        "name": "Lamjung Durbar Museum",
+        "category": "Heritage",
+        "district": "Lamjung",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A restored royal palace of the Lamjung Kingdom, showcasing the history of this mid-hills principality and its contributions to the unification of Nepal.",
+        "facilities": [
+          "Museum",
+          "Heritage Trail",
+          "Guided Tours",
+          "Local Artisan Market"
+        ],
+        "photo": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1389,
+          27.5444
+        ]
+      },
+      "properties": {
+        "id": "daman-viewpoint",
+        "name": "Daman Viewpoint",
+        "category": "Nature",
+        "district": "Makwanpur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "At 2322m on the Tribhuvan Highway, Daman offers one of the most sweeping panoramas of the Himalayas — from Dhaulagiri to Everest, a 340km stretch of peaks.",
+        "facilities": [
+          "Viewing Platform",
+          "Eco-Friendly Lodges",
+          "Mountain Viewpoints",
+          "Hiking Trails"
+        ],
+        "photo": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3861,
+          28.3308
+        ]
+      },
+      "properties": {
+        "id": "pokhara-davis-falls",
+        "name": "Davis Falls (Begnas to Pokhara Corridor)",
+        "category": "Nature",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "The scenic corridor between Begnas Lake and Pokhara city offering beautiful terraced rice fields, community forests, and idyllic rural landscapes with mountain backdrops.",
+        "facilities": [
+          "Cycling Routes",
+          "Village Walks",
+          "Photography Points",
+          "Organic Farms"
+        ],
+        "photo": "https://images.unsplash.com/photo-1560258018-c7db7645254e?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0514,
+          26.6569
+        ]
+      },
+      "properties": {
+        "id": "damak-pathivara",
+        "name": "Damak & Himalayan Refugees Cultural Center",
+        "category": "Heritage",
+        "district": "Jhapa",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "Damak in the eastern Terai is home to a large Tibetan and Bhutanese refugee community, offering unique cultural experiences, monasteries, and traditional crafts.",
+        "facilities": [
+          "Cultural Center",
+          "Refugee Camp Tours",
+          "Monastery Visit",
+          "Handicraft Shops"
+        ],
+        "photo": "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5197,
+          27.3022
+        ]
+      },
+      "properties": {
+        "id": "sunkoshi-bungee-camp",
+        "name": "Last Resort Bungee & Canyon",
+        "category": "Adventure",
+        "district": "Sindhupalchok",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "Nepal's highest and most thrilling bungee jump from a suspension bridge over the roaring Bhote Koshi River (160m drop). Also features canyon swinging and zip-lining.",
+        "facilities": [
+          "Bungee Jump Operations",
+          "Canyon Swing",
+          "Zip Line",
+          "Resort Accommodation",
+          "Rafting"
+        ],
+        "photo": "https://images.unsplash.com/photo-1530542287938-9b48a4c1ed06?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.3208,
+          28.3978
+        ]
+      },
+      "properties": {
+        "id": "manma-kalikot",
+        "name": "Manma & Kalikot Cultural Heritage",
+        "category": "Heritage",
+        "district": "Kalikot",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "The headquarters of Kalikot district features ancient stone houses, traditional mid-western culture, and views of the Karnali River gorge in a rarely visited setting.",
+        "facilities": [
+          "Local Guesthouses",
+          "Historic Sites",
+          "River Viewpoints",
+          "Local Markets"
+        ],
+        "photo": "https://images.unsplash.com/photo-1520962880247-cfaf541d8354?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.4253,
+          29.0228
+        ]
+      },
+      "properties": {
+        "id": "babai-river-bardia",
+        "name": "Babai River Wilderness (Bardia)",
+        "category": "Nature",
+        "district": "Bardiya",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "The remote Babai Valley within Bardia National Park offers exceptional wilderness experiences with extremely high chances of tiger sightings away from tourist crowds.",
+        "facilities": [
+          "Camping Only",
+          "Specialized Wildlife Guides",
+          "Conservation Access Permits"
+        ],
+        "photo": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5358,
+          27.5703
+        ]
+      },
+      "properties": {
+        "id": "dhulikhel-viewpoint",
+        "name": "Dhulikhel Heritage Town",
+        "category": "Heritage",
+        "district": "Kavrepalanchowk",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A historic hilltop town east of Kathmandu with beautifully preserved traditional architecture, excellent panoramic mountain views, and a thriving local art scene.",
+        "facilities": [
+          "Heritage Walk",
+          "Mountain View Hotels",
+          "Art Galleries",
+          "Local Restaurants",
+          "Mountain Bike Rental"
+        ],
+        "photo": "https://images.unsplash.com/photo-1557531365-e8b22d93f7ca?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9808,
+          28.3272
+        ]
+      },
+      "properties": {
+        "id": "pumdi-bhumdi",
+        "name": "Pumdi Bhumdi Eco Resort Area",
+        "category": "Nature",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A serene community forest and eco-tourism destination near Pokhara providing habitat for wildlife while offering peaceful nature walks, bird watching, and authentic rural experiences.",
+        "facilities": [
+          "Community Forest Walk",
+          "Bird Watching",
+          "Local Homestays",
+          "Organic Farms"
+        ],
+        "photo": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.034,
+          26.969
+        ]
+      },
+      "properties": {
+        "id": "gadhimai-temple",
+        "name": "Gadhimai Temple",
+        "category": "Religion",
+        "district": "Bara",
+        "province": 2,
+        "province_name": "Madhesh",
+        "description": "A famous Hindu temple known for the Gadhimai festival held every five years.",
+        "facilities": [
+          "Temple",
+          "Dharmashala"
+        ],
+        "photo": "https://images.unsplash.com/photo-1548625361-ecbfd27d5da1?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.808,
+          26.495
+        ]
+      },
+      "properties": {
+        "id": "chhinnamasta-temple",
+        "name": "Chhinnamasta Bhagawati",
+        "category": "Religion",
+        "district": "Saptari",
+        "province": 2,
+        "province_name": "Madhesh",
+        "description": "A renowned Hindu temple dedicated to Goddess Chhinnamasta, highly revered in the eastern Terai.",
+        "facilities": [
+          "Temple",
+          "Offerings"
+        ],
+        "photo": "https://images.unsplash.com/photo-1627883606774-601b6c006599?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.803,
+          26.637
+        ]
+      },
+      "properties": {
+        "id": "jaleshwor-mahadev",
+        "name": "Jaleshwor Mahadev",
+        "category": "Religion",
+        "district": "Mahottari",
+        "province": 2,
+        "province_name": "Madhesh",
+        "description": "A historic Shiva temple uniquely situated in water, an important pilgrimage site.",
+        "facilities": [
+          "Temple",
+          "Pond"
+        ],
+        "photo": "https://images.unsplash.com/photo-1616422285623-13fc11f26715?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.035,
+          26.852
+        ]
+      },
+      "properties": {
+        "id": "dhanushadham",
+        "name": "Dhanushadham",
+        "category": "Religion",
+        "district": "Dhanusa",
+        "province": 2,
+        "province_name": "Madhesh",
+        "description": "A mythological site related to the Ramayana, where a piece of Shiva’s bow is believed to have fallen.",
+        "facilities": [
+          "Temple",
+          "Forest"
+        ],
+        "photo": "https://images.unsplash.com/photo-1623190289944-78db0fce29ce?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.357,
+          26.702
+        ]
+      },
+      "properties": {
+        "id": "sahlesh-phulbari",
+        "name": "Sahlesh Phulbari",
+        "category": "Nature",
+        "district": "Siraha",
+        "province": 2,
+        "province_name": "Madhesh",
+        "description": "A sacred forest and garden with a unique orchid that blooms on the first day of the Nepali New Year.",
+        "facilities": [
+          "Forest Walk",
+          "Shrine"
+        ],
+        "photo": "https://images.unsplash.com/photo-1440058728956-6f81e3a6acaf?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.565,
+          26.966
+        ]
+      },
+      "properties": {
+        "id": "bhedia-lake",
+        "name": "Bhedia Lake",
+        "category": "Nature",
+        "district": "Sarlahi",
+        "province": 2,
+        "province_name": "Madhesh",
+        "description": "A serene wetland ecosystem in the Terai, excellent for local bird watching and boating.",
+        "facilities": [
+          "Boating",
+          "Picnic Spot"
+        ],
+        "photo": "https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.589,
+          26.901
+        ]
+      },
+      "properties": {
+        "id": "routa-pokhari",
+        "name": "Routa Pokhari",
+        "category": "Nature",
+        "district": "Udayapur",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A scenic hilltop pond surrounded by dense forest, offering a tranquil retreat and religious significance.",
+        "facilities": [
+          "Trekking",
+          "Camping"
+        ],
+        "photo": "https://images.unsplash.com/photo-1517409241944-f2a8dd93dcbd?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.652,
+          29.431
+        ]
+      },
+      "properties": {
+        "id": "badi-malika",
+        "name": "Badimalika Temple",
+        "category": "Religion",
+        "district": "Bajura",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "A major pilgrimage site located at a high altitude surrounded by spectacular rolling meadows.",
+        "facilities": [
+          "Trekking",
+          "Temple"
+        ],
+        "photo": "https://images.unsplash.com/photo-1552554764-92d6e3f429bc?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.332,
+          29.231
+        ]
+      },
+      "properties": {
+        "id": "rama-roshan",
+        "name": "Ramaroshan Area",
+        "category": "Nature",
+        "district": "Achham",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "A stunning complex of 12 lakes and 18 meadows, often called the \"Pancha Puri\" of the far west.",
+        "facilities": [
+          "Hiking",
+          "Camping",
+          "Bird Watching"
+        ],
+        "photo": "https://images.unsplash.com/photo-1506148386377-5f65756cdd60?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.933,
+          28.751
+        ]
+      },
+      "properties": {
+        "id": "ghodaghodi-lake",
+        "name": "Ghodaghodi Lake",
+        "category": "Nature",
+        "district": "Kailali",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "A Ramsar site wetland of immense ecological value, home to crocodiles, turtles, and rare birds.",
+        "facilities": [
+          "Bird Watching",
+          "Boating"
+        ],
+        "photo": "https://images.unsplash.com/photo-1466695108335-44674aa2058b?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.124,
+          28.497
+        ]
+      },
+      "properties": {
+        "id": "tikapur-park",
+        "name": "Tikapur Park",
+        "category": "Nature",
+        "district": "Kailali",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "One of Nepal’s largest and most beautiful botanical gardens, built by King Mahendra.",
+        "facilities": [
+          "Gardens",
+          "Picnic Areas"
+        ],
+        "photo": "https://images.unsplash.com/photo-1585320806297-9794b3e4ce11?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.282,
+          28.641
+        ]
+      },
+      "properties": {
+        "id": "karnali-bridge",
+        "name": "Karnali Bridge (Chisapani)",
+        "category": "Heritage",
+        "district": "Kailali",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "An iconic asymmetric, single-tower cable-stayed bridge crossing the mighty Karnali River.",
+        "facilities": [
+          "Viewpoint",
+          "River Rafting Access"
+        ],
+        "photo": "https://images.unsplash.com/photo-1616857921360-31622325ab3b?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.941,
+          29.263
+        ]
+      },
+      "properties": {
+        "id": "shaileshwari-temple",
+        "name": "Shaileshwari Temple",
+        "category": "Religion",
+        "district": "Doti",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "A prominent Hindu temple in Dipayal, highly revered as one of the major Shakti Peeths in the far-west.",
+        "facilities": [
+          "Temple",
+          "Pilgrimage"
+        ],
+        "photo": "https://images.unsplash.com/photo-1628172826725-7ec5ef2c2c04?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.189,
+          29.827
+        ]
+      },
+      "properties": {
+        "id": "surma-sarovar",
+        "name": "Surma Sarovar",
+        "category": "Nature",
+        "district": "Bajhang",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "A high-altitude holy lake renowned for its pristine alpine beauty and religious importance.",
+        "facilities": [
+          "Trekking",
+          "Camping"
+        ],
+        "photo": "https://images.unsplash.com/photo-1542442828-287217bfb87f?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.603,
+          28.563
+        ]
+      },
+      "properties": {
+        "id": "kankrebihar",
+        "name": "Kakre Bihar",
+        "category": "Heritage",
+        "district": "Surkhet",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "Intricate ruins of a 12th-century stone temple reflecting both Hindu and Buddhist architectural styles.",
+        "facilities": [
+          "Archaeological Park",
+          "Forest Walk"
+        ],
+        "photo": "https://images.unsplash.com/photo-1549429402-9ebef050cc52?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.632,
+          28.591
+        ]
+      },
+      "properties": {
+        "id": "bulbul-taal",
+        "name": "Bulbule Taal",
+        "category": "Nature",
+        "district": "Surkhet",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "A natural spring-fed lake set within a peaceful park in Birendranagar.",
+        "facilities": [
+          "Boating",
+          "Park"
+        ],
+        "photo": "https://images.unsplash.com/photo-1550596334-7bb40a71b6bc?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.691,
+          30.222
+        ]
+      },
+      "properties": {
+        "id": "limi-valley",
+        "name": "Limi Valley",
+        "category": "Adventure",
+        "district": "Humla",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "A highly remote, culturally rich valley offering off-the-beaten-path trekking near the Tibetan border.",
+        "facilities": [
+          "Trekking",
+          "Homestays"
+        ],
+        "photo": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.083,
+          29.531
+        ]
+      },
+      "properties": {
+        "id": "khali-dada",
+        "name": "Khalidada Viewpoint",
+        "category": "Nature",
+        "district": "Mugu",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "A scenic ridge offering unparalleled views of Rara Lake and the surrounding Himalayan peaks.",
+        "facilities": [
+          "Hiking",
+          "Photography"
+        ],
+        "photo": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.597,
+          28.855
+        ]
+      },
+      "properties": {
+        "id": "dullu-heritage",
+        "name": "Dullu Heritage Area",
+        "category": "Heritage",
+        "district": "Dailekh",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "Historical site containing the earliest known Nepali inscription (Damupal's inscription) and ancient stone pillars.",
+        "facilities": [
+          "Historical Tours",
+          "Local Guides"
+        ],
+        "photo": "https://images.unsplash.com/photo-1570184488340-a35b43ceaf67?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.168,
+          26.862
+        ]
+      },
+      "properties": {
+        "id": "baraha-kshetra",
+        "name": "Baraha Kshetra",
+        "category": "Religion",
+        "district": "Sunsari",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "One of Nepal’s four major pilgrimage sites, situated at the confluence of the Koshi and Koka rivers.",
+        "facilities": [
+          "Temple",
+          "River Access"
+        ],
+        "photo": "https://images.unsplash.com/photo-1598131379391-73898f06536b?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.711,
+          27.806
+        ]
+      },
+      "properties": {
+        "id": "namche-bazaar",
+        "name": "Namche Bazaar",
+        "category": "Adventure",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "The famous \"Gateway to Everest,\" a bustling Sherpa town nestled in a horseshoe-shaped basin.",
+        "facilities": [
+          "Lodges",
+          "Bakeries",
+          "Museums"
+        ],
+        "photo": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.685,
+          27.954
+        ]
+      },
+      "properties": {
+        "id": "gokyo-lakes",
+        "name": "Gokyo Lakes",
+        "category": "Nature",
+        "district": "Solukhumbu",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A series of breathtaking oligotrophic lakes at 4,700m, offering one of the best Everest region panoramas.",
+        "facilities": [
+          "Trekking",
+          "Tea Houses"
+        ],
+        "photo": "https://images.unsplash.com/photo-1483728642387-6c3ba6c6af5f?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.323,
+          26.866
+        ]
+      },
+      "properties": {
+        "id": "dharan-bhedetar",
+        "name": "Bhedetar Viewpoint",
+        "category": "Nature",
+        "district": "Dhankuta",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A popular hill station providing sweeping views of the plains and the Makalu Himalayan range.",
+        "facilities": [
+          "View Tower",
+          "Resorts"
+        ],
+        "photo": "https://images.unsplash.com/photo-1502466650593-b65a2c690da0?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.493,
+          27.283
+        ]
+      },
+      "properties": {
+        "id": "milke-danda",
+        "name": "Milke Danda",
+        "category": "Nature",
+        "district": "Sankhuwasabha",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A high ridge famously known as the capital of rhododendrons, blooming spectacularly in spring.",
+        "facilities": [
+          "Trekking",
+          "Camping"
+        ],
+        "photo": "https://images.unsplash.com/photo-1526462703816-7788a1e5cbaf?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.927,
+          27.009
+        ]
+      },
+      "properties": {
+        "id": "mai-pokhari",
+        "name": "Mai Pokhari",
+        "category": "Nature",
+        "district": "Ilam",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A star-shaped lake surrounded by pristine forest; a Ramsar wetland site sacred to both Hindus and Buddhists.",
+        "facilities": [
+          "Pilgrimage",
+          "Nature Walks"
+        ],
+        "photo": "https://images.unsplash.com/photo-1548625361-ecbfd27d5da1?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.621,
+          27.191
+        ]
+      },
+      "properties": {
+        "id": "halasi-mahadev",
+        "name": "Halesi Mahadev",
+        "category": "Religion",
+        "district": "Khotang",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A spectacular natural cave system revered as the \"Pashupatinath of the East\" by Hindus and Buddhists.",
+        "facilities": [
+          "Cave Exploration",
+          "Temple"
+        ],
+        "photo": "https://images.unsplash.com/photo-1533055640609-24b498dfd74c?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.864,
+          28.455
+        ]
+      },
+      "properties": {
+        "id": "mardi-himal",
+        "name": "Mardi Himal Trek",
+        "category": "Adventure",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A stunning, relatively new ridge trek offering incredibly close views of Machhapuchhre (Fishtail) and Annapurna.",
+        "facilities": [
+          "Trekking",
+          "Tea Houses"
+        ],
+        "photo": "https://images.unsplash.com/photo-1522069213568-d0e7e174b01e?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.784,
+          28.836
+        ]
+      },
+      "properties": {
+        "id": "kagbeni",
+        "name": "Kagbeni Village",
+        "category": "Heritage",
+        "district": "Mustang",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A fascinating medieval-looking village with mud-packed houses, acting as the gateway to Upper Mustang.",
+        "facilities": [
+          "Lodges",
+          "Monastery"
+        ],
+        "photo": "https://images.unsplash.com/photo-1602489953282-3536da900138?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.475,
+          27.859
+        ]
+      },
+      "properties": {
+        "id": "tsho-rolpa",
+        "name": "Tsho Rolpa Glacial Lake",
+        "category": "Nature",
+        "district": "Dolakha",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "One of the largest glacial lakes in Nepal, situated in the dramatic Rolwaling Valley at 4,580m.",
+        "facilities": [
+          "Trekking",
+          "Camping"
+        ],
+        "photo": "https://images.unsplash.com/photo-1502466650593-b65a2c690da0?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.282,
+          27.648
+        ]
+      },
+      "properties": {
+        "id": "taudaha-lake",
+        "name": "Taudaha Lake",
+        "category": "Nature",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A tranquil lake in the Kathmandu Valley, historically believed to house the serpent king Karkotak.",
+        "facilities": [
+          "Bird Watching",
+          "Walking Trail"
+        ],
+        "photo": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.391,
+          27.801
+        ]
+      },
+      "properties": {
+        "id": "shivapuri-np",
+        "name": "Shivapuri Nagarjun NP",
+        "category": "Nature",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "The closest national park to Kathmandu, offering excellent day hikes, watershed protection, and rich biodiversity.",
+        "facilities": [
+          "Hiking",
+          "Bird Watching"
+        ],
+        "photo": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.261,
+          27.608
+        ]
+      },
+      "properties": {
+        "id": "dakshinkali",
+        "name": "Dakshinkali Temple",
+        "category": "Religion",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A highly revered shrine dedicated to Goddess Kali, located in a forested gorge south of Kathmandu.",
+        "facilities": [
+          "Temple",
+          "Pilgrimage"
+        ],
+        "photo": "https://images.unsplash.com/photo-1587396112521-4824d770514a?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.056,
+          27.574
+        ]
+      },
+      "properties": {
+        "id": "tilaurakot",
+        "name": "Tilaurakot (Ancient Kapilavastu)",
+        "category": "Heritage",
+        "district": "Kapilvastu",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "The ancient capital city where Siddhartha Gautama (Lord Buddha) spent the first 29 years of his life.",
+        "facilities": [
+          "Archaeological Ruins",
+          "Museum"
+        ],
+        "photo": "https://images.unsplash.com/photo-1627883606774-601b6c006599?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.088,
+          27.616
+        ]
+      },
+      "properties": {
+        "id": "jagadishpur-lake",
+        "name": "Jagadishpur Reservoir",
+        "category": "Nature",
+        "district": "Kapilvastu",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "Nepal’s largest man-made lake and a crucial Ramsar wetland site for migratory birds.",
+        "facilities": [
+          "Bird Watching",
+          "Boating"
+        ],
+        "photo": "https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.435,
+          27.936
+        ]
+      },
+      "properties": {
+        "id": "ruru-kshetra",
+        "name": "Ruru Kshetra (Ridi)",
+        "category": "Religion",
+        "district": "Gulmi",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "A sacred Hindu pilgrimage site at the confluence of the Kali Gandaki and Ridi rivers.",
+        "facilities": [
+          "Temple",
+          "River Access"
+        ],
+        "photo": "https://images.unsplash.com/photo-1616422285623-13fc11f26715?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.964,
+          29.198
+        ]
+      },
+      "properties": {
+        "id": "phoksundo-lake",
+        "name": "Phoksundo Lake",
+        "category": "Nature",
+        "district": "Dolpa",
+        "province": 6,
+        "province_name": "Karnali",
+        "description": "Nepal’s deepest lake, famous for its mesmerizing turquoise color, located in Shey Phoksundo National Park.",
+        "facilities": [
+          "Trekking",
+          "Camping"
+        ],
+        "photo": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.501,
+          28.211
+        ]
+      },
+      "properties": {
+        "id": "langtang-valley",
+        "name": "Langtang Valley Trek",
+        "category": "Adventure",
+        "district": "Rasuwa",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "The \"Valley of Glaciers\", offering incredible alpine scenery and rich Tamang culture near the Tibetan border.",
+        "facilities": [
+          "Trekking",
+          "Tea Houses"
+        ],
+        "photo": "https://images.unsplash.com/photo-1483728642387-6c3ba6c6af5f?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.165,
+          27.632
+        ]
+      },
+      "properties": {
+        "id": "chitlang",
+        "name": "Chitlang Village",
+        "category": "Heritage",
+        "district": "Makwanpur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "An ancient Newari settlement on the old trade route, now famous for homestays and organic farming.",
+        "facilities": [
+          "Homestays",
+          "Hiking"
+        ],
+        "photo": "https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.628,
+          28.001
+        ]
+      },
+      "properties": {
+        "id": "gorkha-durbar",
+        "name": "Gorkha Durbar",
+        "category": "Heritage",
+        "district": "Gorkha",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "The historic palace of King Prithvi Narayan Shah, perched dramatically on a fortified hilltop.",
+        "facilities": [
+          "Palace Tour",
+          "Museum"
+        ],
+        "photo": "https://images.unsplash.com/photo-1549429402-9ebef050cc52?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.631,
+          28.551
+        ]
+      },
+      "properties": {
+        "id": "manaslu-circuit",
+        "name": "Manaslu Circuit",
+        "category": "Adventure",
+        "district": "Gorkha",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "An epic, challenging tea-house trek circling the world’s 8th highest peak, crossing the Larkya La pass.",
+        "facilities": [
+          "Trekking",
+          "Lodges"
+        ],
+        "photo": "https://images.unsplash.com/photo-1522069213568-d0e7e174b01e?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.953,
+          26.621
+        ]
+      },
+      "properties": {
+        "id": "kosithappu-wildlife",
+        "name": "Koshi Tappu Wildlife Reserve",
+        "category": "Nature",
+        "district": "Sunsari",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A premier bird-watching destination and the last habitat of the wild water buffalo in Nepal.",
+        "facilities": [
+          "Wildlife Safari",
+          "Birding"
+        ],
+        "photo": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.016,
+          27.701
+        ]
+      },
+      "properties": {
+        "id": "kanchanjunga-bc",
+        "name": "Kanchenjunga Base Camp",
+        "category": "Adventure",
+        "district": "Taplejung",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A demanding and pristine trek to the base of the world’s 3rd highest mountain.",
+        "facilities": [
+          "Trekking",
+          "Camping"
+        ],
+        "photo": "https://images.unsplash.com/photo-1526462703816-7788a1e5cbaf?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.844,
+          28.291
+        ]
+      },
+      "properties": {
+        "id": "dhampus",
+        "name": "Dhampus Village",
+        "category": "Heritage",
+        "district": "Kaski",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A beautiful Gurung village offering classic Annapurna range sunrises without rigorous trekking.",
+        "facilities": [
+          "Homestays",
+          "Views"
+        ],
+        "photo": "https://images.unsplash.com/photo-1602489953282-3536da900138?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.545,
+          27.545
+        ]
+      },
+      "properties": {
+        "id": "balthali",
+        "name": "Balthali Eco-Village",
+        "category": "Nature",
+        "district": "Kavrepalanchowk",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A peaceful, off-the-beaten-path village retreat with terraced farms, orange orchards, and suspension bridges.",
+        "facilities": [
+          "Eco-resorts",
+          "Hiking"
+        ],
+        "photo": "https://images.unsplash.com/photo-1506148386377-5f65756cdd60?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.053,
+          28.531
+        ]
+      },
+      "properties": {
+        "id": "bison-hill",
+        "name": "Dhorpatan Hunting Reserve",
+        "category": "Adventure",
+        "district": "Baglung",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "Nepal’s only hunting reserve, famous for blue sheep and stunning high-altitude marshlands.",
+        "facilities": [
+          "Trekking",
+          "Permit Hunting"
+        ],
+        "photo": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.452,
+          27.632
+        ]
+      },
+      "properties": {
+        "id": "doleshwor-mahadev",
+        "name": "Doleshwor Mahadev",
+        "category": "Religion",
+        "district": "Bhaktapur",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "Believed to be the missing head of the Kedarnath Jyotirlinga, a significant Shiva temple.",
+        "facilities": [
+          "Temple",
+          "Pilgrimage"
+        ],
+        "photo": "https://images.unsplash.com/photo-1623190289944-78db0fce29ce?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.641,
+          27.691
+        ]
+      },
+      "properties": {
+        "id": "palanchowk-bhagawati",
+        "name": "Palanchowk Bhagawati",
+        "category": "Religion",
+        "district": "Kavrepalanchowk",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "An intricately carved 5th-century stone idol of Goddess Bhagawati atop a scenic hill.",
+        "facilities": [
+          "Temple",
+          "Views"
+        ],
+        "photo": "https://images.unsplash.com/photo-1552554764-92d6e3f429bc?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.156,
+          28.761
+        ]
+      },
+      "properties": {
+        "id": "nar-phu",
+        "name": "Nar Phu Valley Trek",
+        "category": "Adventure",
+        "district": "Manang",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "A restricted area trek offering raw Tibetan culture, ancient monasteries, and rugged landscapes.",
+        "facilities": [
+          "Trekking",
+          "Homestays"
+        ],
+        "photo": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.546,
+          27.867
+        ]
+      },
+      "properties": {
+        "id": "tansen-palpa",
+        "name": "Tansen, Palpa",
+        "category": "Heritage",
+        "district": "Palpa",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "A historic hill town renowned for Dhaka fabric, Newari architecture, and the Srinagar Danda viewpoint.",
+        "facilities": [
+          "Shopping",
+          "Sightseeing"
+        ],
+        "photo": "https://images.unsplash.com/photo-1570184488340-a35b43ceaf67?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.568,
+          27.918
+        ]
+      },
+      "properties": {
+        "id": "rani-mahal",
+        "name": "Rani Mahal",
+        "category": "Heritage",
+        "district": "Palpa",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "Known as the \"Taj Mahal of Nepal\", a stunning palace built on the banks of the Kali Gandaki river.",
+        "facilities": [
+          "Palace Tour",
+          "River Views"
+        ],
+        "photo": "https://images.unsplash.com/photo-1598285721200-a5cc9de915d3?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.111,
+          27.981
+        ]
+      },
+      "properties": {
+        "id": "supa-deurali",
+        "name": "Supa Deurali Temple",
+        "category": "Religion",
+        "district": "Arghakhanchi",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "A famous Hindu temple situated dramatically in a mountain gorge, surrounded by local legends.",
+        "facilities": [
+          "Temple",
+          "Pilgrimage"
+        ],
+        "photo": "https://images.unsplash.com/photo-1548625361-ecbfd27d5da1?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.856,
+          28.118
+        ]
+      },
+      "properties": {
+        "id": " स्वर्गद्वारी",
+        "name": "Swargadwari",
+        "category": "Religion",
+        "district": "Pyuthan",
+        "province": 5,
+        "province_name": "Lumbini",
+        "description": "A major hilltop pilgrimage site famous for its continuous Vedic fire (Akhanda Yagya) and ashram.",
+        "facilities": [
+          "Temple",
+          "Ashram"
+        ],
+        "photo": "https://images.unsplash.com/photo-1628172826725-7ec5ef2c2c04?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.042,
+          29.351
+        ]
+      },
+      "properties": {
+        "id": "khaptad-np",
+        "name": "Khaptad National Park",
+        "category": "Nature",
+        "district": "Doti",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "A unique rolling plateau featuring moorland, steep slopes, and an ashram of the Khaptad Baba.",
+        "facilities": [
+          "Trekking",
+          "Camping",
+          "Meditation"
+        ],
+        "photo": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.252,
+          28.841
+        ]
+      },
+      "properties": {
+        "id": "shuklaphanta",
+        "name": "Shuklaphanta National Park",
+        "category": "Nature",
+        "district": "Kanchanpur",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "Home to the largest herd of swamp deer in the world and exceptional tiger habitats in the Terai.",
+        "facilities": [
+          "Jungle Safari",
+          "Birding"
+        ],
+        "photo": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.121,
+          28.924
+        ]
+      },
+      "properties": {
+        "id": "dodhara-chandani",
+        "name": "Dodhara Chandani Bridge",
+        "category": "Heritage",
+        "district": "Kanchanpur",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "One of the longest multi-span suspension bridges in Asia, crossing the massive Mahakali river.",
+        "facilities": [
+          "Sightseeing",
+          "Photography"
+        ],
+        "photo": "https://images.unsplash.com/photo-1616857921360-31622325ab3b?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.181,
+          29.551
+        ]
+      },
+      "properties": {
+        "id": "bajhang-durbar",
+        "name": "Bajhang Durbar",
+        "category": "Heritage",
+        "district": "Bajhang",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "Ruins and remnants of the ancient Malla kings’ palace offering historical insight into the far-west.",
+        "facilities": [
+          "Historical Site"
+        ],
+        "photo": "https://images.unsplash.com/photo-1549429402-9ebef050cc52?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.952,
+          30.012
+        ]
+      },
+      "properties": {
+        "id": "api-nampa",
+        "name": "Api Nampa Conservation Area",
+        "category": "Adventure",
+        "district": "Darchula",
+        "province": 7,
+        "province_name": "Sudurpashchim",
+        "description": "A pristine, remote protected area featuring Mount Api and rich high-Himalayan biodiversity.",
+        "facilities": [
+          "Trekking",
+          "Expeditions"
+        ],
+        "photo": "https://images.unsplash.com/photo-1526462703816-7788a1e5cbaf?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.731,
+          28.031
+        ]
+      },
+      "properties": {
+        "id": "panchpokhari",
+        "name": "Panch Pokhari",
+        "category": "Nature",
+        "district": "Sindhupalchok",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A group of five holy lakes at 4,100m, offering incredible views of the Jugal Himal range.",
+        "facilities": [
+          "Trekking",
+          "Pilgrimage"
+        ],
+        "photo": "https://images.unsplash.com/photo-1466695108335-44674aa2058b?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.412,
+          27.935
+        ]
+      },
+      "properties": {
+        "id": "siddha-cave",
+        "name": "Siddha Gufa",
+        "category": "Adventure",
+        "district": "Tanahu",
+        "province": 4,
+        "province_name": "Gandaki",
+        "description": "The largest cave in Nepal, spanning nearly 500 meters deep with dramatic stalactite formations.",
+        "facilities": [
+          "Caving",
+          "Guided Tours"
+        ],
+        "photo": "https://images.unsplash.com/photo-1533055640609-24b498dfd74c?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.521,
+          27.321
+        ]
+      },
+      "properties": {
+        "id": "gufapokhari",
+        "name": "Gufa Pokhari",
+        "category": "Nature",
+        "district": "Sankhuwasabha",
+        "province": 1,
+        "province_name": "Koshi",
+        "description": "A quiet, reflective lake on the Milke Danda ridge offering stunning vistas of Makalu and Kanchenjunga.",
+        "facilities": [
+          "Trekking",
+          "Homestays"
+        ],
+        "photo": "https://images.unsplash.com/photo-1550596334-7bb40a71b6bc?w=500&q=80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.203,
+          27.653
+        ]
+      },
+      "properties": {
+        "id": "chandragiri",
+        "name": "Chandragiri Hills",
+        "category": "Nature",
+        "district": "Kathmandu",
+        "province": 3,
+        "province_name": "Bagmati",
+        "description": "A major viewpoint accessed by cable car, offering sweeping panoramas of the Kathmandu Valley and Himalayas.",
+        "facilities": [
+          "Cable Car",
+          "Resort",
+          "Bhaleshwor Temple"
+        ],
+        "photo": "https://images.unsplash.com/photo-1502466650593-b65a2c690da0?w=500&q=80"
+      }
+    }
+  ]
+}

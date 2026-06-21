@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Nepal Tourism & Destination Finder | Academic Web GIS Project</title>
+  <meta name="description" content="A comprehensive Web GIS portal for finding, analyzing, and navigating tourism destinations in Nepal using Leaflet, Turf.js, and OSRM routing.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <!-- App Container -->
+  <div id="app-container">
+    
+    <!-- Sidebar Control Panel -->
+    <aside id="sidebar-panel">
+      <!-- Header -->
+      <header id="app-header">
+        <div class="logo-container">
+          <i class="fa-solid fa-map-location-dot logo-icon"></i>
+          <div>
+            <h1>Nepal Tourism</h1>
+            <span class="sub-title">&amp; Destination Finder</span>
+          </div>
+        </div>
+        <p class="tagline">Explore, Analyze, and Navigate Nepal's Treasures</p>
+      </header>
+      
+      <!-- Scrollable Panels -->
+      <div id="sidebar-scroll-container">
+        
+        <!-- Section 1: Set Origin Location -->
+        <section class="control-section" id="origin-section">
+          <h2><i class="fa-solid fa-location-crosshairs icon-color"></i> 1. Set Your Origin</h2>
+          <p class="section-desc">Detect your current position or click anywhere on the map to set your starting location.</p>
+          <div class="btn-group">
+            <button id="btn-detect-gps" class="btn primary-btn">
+              <i class="fa-solid fa-gps-fixed"></i> Detect GPS Location
+            </button>
+          </div>
+          <div id="origin-info-card" class="info-card warning-state">
+            <div class="info-label">Current Origin Point:</div>
+            <div id="origin-coords" class="info-value">Not Set (Click map or GPS)</div>
+          </div>
+        </section>
+        
+        <!-- Section 2: Search & Filter -->
+        <section class="control-section" id="search-filter-section">
+          <h2><i class="fa-solid fa-filter icon-color"></i> 2. Search &amp; Filter</h2>
+          
+          <!-- Search Bar -->
+          <div class="input-wrapper">
+            <i class="fa-solid fa-search input-icon"></i>
+            <input type="text" id="search-input" placeholder="Search by destination name...">
+          </div>
+          
+          <!-- Categories Filter -->
+          <div class="filter-group">
+            <label class="filter-label">Attraction Category</label>
+            <div class="category-tags-container">
+              <button class="category-tag" data-category="all" id="tag-cat-all">All</button>
+              <button class="category-tag" data-category="Heritage" id="tag-cat-heritage"><i class="fa-solid fa-landmark"></i> Heritage</button>
+              <button class="category-tag" data-category="Nature" id="tag-cat-nature"><i class="fa-solid fa-tree"></i> Nature</button>
+              <button class="category-tag" data-category="Religion" id="tag-cat-religion"><i class="fa-solid fa-dharmachakra"></i> Religion</button>
+              <button class="category-tag" data-category="Adventure" id="tag-cat-adventure"><i class="fa-solid fa-compass"></i> Adventure</button>
+            </div>
+          </div>
+          
+          <!-- Region/Administrative Filters -->
+          <div class="filter-group">
+            <label for="filter-province" class="filter-label">Province</label>
+            <select id="filter-province" class="select-input">
+              <option value="all">All Provinces</option>
+              <option value="1">Koshi (Province 1)</option>
+              <option value="2">Madhesh (Province 2)</option>
+              <option value="3">Bagmati (Province 3)</option>
+              <option value="4">Gandaki (Province 4)</option>
+              <option value="5">Lumbini (Province 5)</option>
+              <option value="6">Karnali (Province 6)</option>
+              <option value="7">Sudurpashchim (Province 7)</option>
+            </select>
+          </div>
+          
+          <div class="filter-group">
+            <label for="filter-district" class="filter-label">District</label>
+            <select id="filter-district" class="select-input">
+              <option value="all">All Districts</option>
+            </select>
+          </div>
+        </section>
+        
+        <!-- Section 3: Spatial Analysis Tools -->
+        <section class="control-section" id="spatial-tools-section">
+          <h2><i class="fa-solid fa-calculator icon-color"></i> 3. Spatial Analysis</h2>
+          
+          <!-- Tool A: Nearest Finder -->
+          <div class="spatial-tool-card" id="nearest-tool-card">
+            <h3><i class="fa-solid fa-location-dot"></i> Nearest Attraction Finder</h3>
+            <p class="tool-desc">Find and map the closest tourism spot from your origin point.</p>
+            <button id="btn-find-nearest" class="btn secondary-btn" disabled>
+              <i class="fa-solid fa-bullseye"></i> Find Nearest Spot
+            </button>
+            <div id="nearest-result-card" class="result-card hidden">
+              <!-- Filled by JS -->
+            </div>
+          </div>
+          
+          <!-- Tool B: Buffer Analysis -->
+          <div class="spatial-tool-card" id="buffer-tool-card">
+            <h3><i class="fa-solid fa-circle-dot"></i> Proximity Buffer Analysis</h3>
+            <p class="tool-desc">Create a visual radius buffer around your origin and see all destinations inside.</p>
+            <div class="range-slider-container">
+              <div class="slider-header">
+                <span class="slider-title">Buffer Radius:</span>
+                <span id="buffer-radius-value" class="slider-val">25 km</span>
+              </div>
+              <input type="range" id="buffer-radius-slider" min="5" max="150" step="5" value="25" class="slider">
+            </div>
+            <div class="btn-row">
+              <button id="btn-draw-buffer" class="btn secondary-btn" disabled>
+                <i class="fa-solid fa-chart-pie"></i> Generate Buffer
+              </button>
+              <button id="btn-clear-buffer" class="btn danger-btn hidden">
+                <i class="fa-solid fa-trash-can"></i> Clear
+              </button>
+            </div>
+            <div id="buffer-result-card" class="result-card hidden">
+              <!-- Filled by JS -->
+            </div>
+          </div>
+          
+          <!-- Tool C: Distance & OSRM Routing -->
+          <div class="spatial-tool-card" id="routing-tool-card">
+            <h3><i class="fa-solid fa-route"></i> Distance &amp; Travel Routing</h3>
+            <p class="tool-desc">Choose a destination, select your travel mode, and calculate the actual path.</p>
+            
+            <div class="filter-group">
+              <label for="route-target-select" class="filter-label">Select Destination</label>
+              <select id="route-target-select" class="select-input">
+                <option value="" disabled selected>Choose a destination...</option>
+                <!-- Options populated by JS -->
+              </select>
+            </div>
+            
+            <!-- Travel Mode Selector -->
+            <div class="travel-modes">
+              <label class="travel-mode-option">
+                <input type="radio" name="travel-mode" value="driving" checked id="mode-driving">
+                <div class="mode-card">
+                  <i class="fa-solid fa-car"></i>
+                  <span>Vehicle</span>
+                </div>
+              </label>
+              <label class="travel-mode-option">
+                <input type="radio" name="travel-mode" value="foot" id="mode-walking">
+                <div class="mode-card">
+                  <i class="fa-solid fa-person-walking"></i>
+                  <span>Walking</span>
+                </div>
+              </label>
+            </div>
+            
+            <div class="btn-row">
+              <button id="btn-calculate-route" class="btn secondary-btn" disabled>
+                <i class="fa-solid fa-compass-drafting"></i> Calculate Route
+              </button>
+              <button id="btn-clear-route" class="btn danger-btn hidden">
+                <i class="fa-solid fa-route-slash"></i> Clear
+              </button>
+            </div>
+            
+            <div id="routing-result-card" class="result-card hidden">
+              <!-- Filled by JS -->
+            </div>
+          </div>
+        </section>
+      </div>
+      
+      <!-- Footer Info -->
+      <footer id="sidebar-footer">
+        <p>Web GIS Mini-Project • Nepal Tourism</p>
+        <p class="powered-by">Powered by Leaflet, Turf.js &amp; OSRM</p>
+      </footer>
+    </aside>
+    
+    <!-- Map Area Container -->
+    <main id="map-container-wrapper">
+      <div id="map"></div>
+      
+      <!-- Custom Overlay Controller Panel on Map -->
+      <div id="custom-layers-control" class="glass-panel">
+        <button id="btn-toggle-layers-menu" class="layers-icon-btn">
+          <i class="fa-solid fa-layer-group"></i> Layers
+        </button>
+        
+        <div id="layers-menu-content" class="hidden">
+          <h4>Base Maps</h4>
+          <div class="layer-option">
+            <input type="radio" name="basemap-radio" id="basemap-osm" value="osm" checked>
+            <label for="basemap-osm">OpenStreetMap</label>
+          </div>
+          <div class="layer-option">
+            <input type="radio" name="basemap-radio" id="basemap-satellite" value="satellite">
+            <label for="basemap-satellite">Satellite Imagery</label>
+          </div>
+          <div class="layer-option">
+            <input type="radio" name="basemap-radio" id="basemap-terrain" value="terrain">
+            <label for="basemap-terrain">Topographic/Terrain</label>
+          </div>
+          
+          <hr class="layer-divider">
+          
+          <h4>Administrative Boundaries</h4>
+          <div class="layer-option">
+            <input type="checkbox" id="chk-overlay-provinces">
+            <label for="chk-overlay-provinces"><span class="legend-color province-col"></span> Provinces Layer</label>
+          </div>
+          <div class="layer-option">
+            <input type="checkbox" id="chk-overlay-districts">
+            <label for="chk-overlay-districts"><span class="legend-color district-col"></span> Districts Layer</label>
+          </div>
+          <div class="layer-option">
+            <input type="checkbox" id="chk-overlay-municipalities">
+            <label for="chk-overlay-municipalities"><span class="legend-color palika-col"></span> Municipalities Layer</label>
+          </div>
+          
+          <hr class="layer-divider">
+          
+          <h4>Tourism Overlays</h4>
+          <div class="layer-option">
+            <input type="checkbox" id="chk-overlay-tourism" checked>
+            <label for="chk-overlay-tourism"><span class="legend-color spot-col"></span> Tourism Pins</label>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quick Info / Help Float Card -->
+      <div id="help-float-card" class="glass-panel">
+        <div class="help-header">
+          <i class="fa-solid fa-circle-info"></i> Quick Help
+        </div>
+        <p>1. Start by setting your **Origin Point** (detect position or click anywhere on the map).</p>
+        <p>2. Toggle the **Administrative Boundaries** from the Layers panel to see exact borders.</p>
+        <p>3. Use **Spatial Tools** on the sidebar to analyze nearby tourism gems.</p>
+      </div>
+
+      <!-- Load Overlay -->
+      <div id="loading-overlay" class="hidden">
+        <div class="spinner-container">
+          <div class="spinner"></div>
+          <span id="loading-text">Loading Geospatial Datasets...</span>
+        </div>
+      </div>
+    </main>
+    
+    <!-- Details Panel (Static Sidebar for selected spot details) -->
+    <aside id="details-panel" class="details-panel-empty">
+      <div class="empty-state">
+        <i class="fa-solid fa-map-location-dot empty-icon"></i>
+        <h3>No Destination Selected</h3>
+        <p>Click on any tourism marker or select a spot to view detailed facilities, photos, and information.</p>
+      </div>
+      <div class="details-content hidden">
+        <!-- Filled dynamically by JS -->
+      </div>
+    </aside>
+    
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  
+  <!-- Turf.js Spatial Library -->
+  <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+  
+  <!-- App JS -->
+  <script src="app.js"></script>
+</body>
+</html>
